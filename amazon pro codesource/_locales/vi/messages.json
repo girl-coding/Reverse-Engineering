@@ -1,0 +1,1512 @@
+{
+  "appName": {
+    "message": "Amazon Product Finder - AMZScout PRO"
+  },
+  "appDesc": {
+    "message": "AMZScout mở rộng sẽ giúp bạn đưa ra quyết định chọn một niche dựa trên dữ liệu thực tế, không phải trực giác."
+  },
+  "extendTrial": {
+    "message": "Mở rộng thời gian dùng thử"
+  },
+  "extendTrialMessage": {
+    "message": "Nâng cấp lên tới 2 tháng miễn phí"
+  },
+  "number": {
+    "message": "#"
+  },
+  "in": {
+    "message": "trong"
+  },
+  "results": {
+    "message": "Kết quả"
+  },
+  "resultsTooltip": {
+    "message": "The number of products shown on the current Amazon page."
+  },
+  "avgSalesRank": {
+    "message": "Thứ hạng doanh số trung bình"
+  },
+  "avgSalesRankTooltip": {
+    "message": "“Average Sales Rank” refers to the average sales rank for any products shown on the current Amazon page."
+  },
+  "opScore": {
+    "message": "điểm thích hợp"
+  },
+  "opScoreTooltip": {
+    "message": "This score is based on the niche’s profits, level of demand, and competition. The Niche Score is only available on the search page."
+  },
+  "avgMonthlyRevenue": {
+    "message": "Lợi tức trung bình hàng tháng"
+  },
+  "avgMonthlyRevenueTooltip": {
+    "message": "“Average Monthly Revenue” refers to the average revenue per month for any products shown on the current Amazon page."
+  },
+  "avgMonthlySales": {
+    "message": "Doanh thu hàng tháng trung bình"
+  },
+  "avgMonthlySalesTooltip": {
+    "message": "“Average Monthly Sales” refers to the average number of sales each month for any products shown on the current Amazon page."
+  },
+  "variants": {
+    "message": "Loại sản phẩm"
+  },
+  "variantsTooltip": {
+    "message": "This refers to the number of product variants, which means the same product may come in another color, size, design, or configuration."
+  },
+  "avgPrice": {
+    "message": "Giá trung bình"
+  },
+  "avgPriceTooltip": {
+    "message": "This refers to the average price for any products shown on the current Amazon page."
+  },
+  "avgMarginImpact": {
+    "message": "Lợi nhuận ròng trung bình"
+  },
+  "avgMarginImpactTooltip": {
+    "message": "This refers to the average net margin for any products shown on the current Amazon page."
+  },
+  "avgReviews": {
+    "message": "Số đánh giá trung bình"
+  },
+  "avgReviewsTooltip": {
+    "message": "This refers to the average reviews for any products shown on the current Amazon page."
+  },
+  "nicheHistory": {
+    "message": "Lịch sử thích hợp"
+  },
+  "nicheHistoryTooltip": {
+    "message": "This information includes the number of sales, rankings, and price data in the niche over different periods of time."
+  },
+  "rank" : {
+    "message": "Thứ hạng"
+  },
+  "sales" : {
+    "message": "bán"
+  },
+  "bsr30Tooltip": {
+    "message": "The average product’s best-seller rank (BSR) for the past 30 days."
+  },
+  "price30": {
+    "message": "Giá 30"
+  },
+  "price30Tooltip": {
+    "message": "The average price for the past 30 days."
+  },
+  "reviewsCount" : {
+    "message": "Số lượng đánh giá"
+  },
+  "productName": {
+    "message": "Tên sản phẩm"
+  },
+  "brand": {
+    "message": "Nhãn hàng"
+  },
+  "price": {
+    "message": "Giá"
+  },
+  "minPrice": {
+    "message": "Giá tối thiểu"
+  },
+  "minPriceTooltip": {
+    "message": "The lowest price for the item, across all sellers."
+  },
+  "net": {
+    "message": "Ròng"
+  },
+  "fbaFees": {
+    "message": "Chi phí FBA"
+  },
+  "lqs": {
+    "message": "LQS"
+  },
+  "lqsTooltip": {
+    "message": "The Listing Quality Score (LQS) indicates how good the listing is. Click on the value to see what factors contribute to this score."
+  },
+  "category": {
+    "message": "Hạng mục"
+  },
+  "categoryTooltip": {
+    "message": "Categories are used to organize product information and make it easier for customers to find what they're searching for."
+  },
+  "sellers": {
+    "message": "Người bán"
+  },
+  "enablePS": {
+    "message": "Kích hoạt tính năng bật lên AMZScout Niche"
+  },
+  "extractOneProductOnly": {
+    "message": "Chỉ trích xuất một Sản phẩm tại Trang sản phẩm"
+  },
+  "options": {
+    "message": "Tuỳ chọn"
+  },
+  "headers": {
+    "message": "Tiêu đề"
+  },
+  "columns": {
+    "message": "Cột"
+  },
+  "data": {
+    "message": "dữ liệu"
+  },
+  "error": {
+    "message": "lỗi"
+  },
+  "sellersTooltip": {
+    "message": "The number of people or businesses selling this product on Amazon."
+  },
+  "estSales": {
+    "message": "Doanh số ước tính"
+  },
+  "estSalesTooltip": {
+    "message": "Doanh số ước tính hàng tháng"
+  },
+  "estRevenue": {
+    "message": "Lợi tức ước tính"
+  },
+  "estRevenueTooltip": {
+    "message": "Lợi tức ước tính hàng tháng"
+  },
+  "nameLength": {
+    "message": "Độ dài tên"
+  },
+  "reviews": {
+    "message": "Số lượng đánh giá"
+  },
+  "reviewsTooltip": {
+    "message": "The number of reviews regarding the buyer's satisfaction with a particular product."
+  },
+  "rpr": {
+    "message": "RPR"
+  },
+  "rprTooltip": {
+    "message": "This is the ratio of how much revenue a seller makes, per one review. A higher number means it’s relatively easy for a new seller to enter the niche."
+  },
+  "availableFrom": {
+    "message": "Có hàng từ"
+  },
+  "availableFromTooltip": {
+    "message": "The date when the product first became available on Amazon."
+  },
+  "rating": {
+    "message": "Định mức"
+  },
+  "ratingTooltip": {
+    "message": "The average score (ranges from one to five), is based on the total number of reviews that buyers submit for a product."
+  },
+  "sellerIsFBA": {
+    "message": "Người bán là FBA"
+  },
+  "descriptionLength": {
+    "message": "Độ dài mô tả"
+  },
+  "imagesCount": {
+    "message": "Số lượng hình ảnh"
+  },
+  "seller": {
+    "message": "Người bán"
+  },
+  "sellerTypeTooltip": {
+    "message": "There are three types of sellers on Amazon: Fulfillment by Amazon (FBA), Fulfillment by Merchant (FBM), and Amazon itself (AMZ)."
+  },
+  "url": {
+    "message": "URL"
+  },
+  "asin": {
+    "message": "ASIN"
+  },
+  "monthlyPayment": {
+    "message": "Thanh toán hàng tháng"
+  },
+  "onetimePayment": {
+    "message": "Thanh toán một lần"
+  },
+  "oversize": {
+    "message": "Ngoại khổ"
+  },
+  "weight": {
+    "message": "Cân nặng"
+  },
+  "weightTooltip": {
+    "message": "Product Weight"
+  },
+  "buyAtGoogle": {
+    "message": "Mua tại Google Chrome Store"
+  },
+  "needPermissions": {
+    "message": "Vui lòng đăng nhập trước khi tiếp tục"
+  },
+  "filters": {
+    "message": "Bộ lọc"
+  },
+  "from": {
+    "message": "từ"
+  },
+  "to": {
+    "message": "đến"
+  },
+  "fbaOnly": {
+    "message": "chỉ mỗi FBA"
+  },
+  "bulletsCount": {
+    "message": "Số lượng dấu đầu dòng"
+  },
+  "apply": {
+    "message": "Áp dụng"
+  },
+  "clear": {
+    "message": "Xoá"
+  },
+  "close": {
+    "message": "Đóng"
+  },
+  "nextPage": {
+    "message": "Trang tiếp"
+  },
+  "filter": {
+    "message": "Bộ lọc"
+  },
+  "trends": {
+    "message": "Xu hướng"
+  },
+  "export": {
+    "message": "Xuất ra CSV"
+  },
+  "import": {
+    "message": "Nhập từ CSV"
+  },
+  "wrongPage": {
+    "message": "Có vẻ như bạn không đang ở trang Amazon Search hoặc trang Sản phẩm."
+  },
+  "pageLoading": {
+    "message": "Xin vui lòng chờ trang này tải xong"
+  },
+  "cantGetProductsErr": {
+    "message": "AMZScout không thể lấy thông tin sản phẩm từ trang này. Vui lòng thử trang khác."
+  },
+  "instanceUnsupportedErr": {
+    "message": "Phiên bản AMZScout này không còn được hỗ trợ. Vui lòng cập nhật AMZScout lên phiên bản mới nhất."
+  },
+  "instanceBlockedErr": {
+    "message": "Thể hiện của AMZScout này đã bị chặn. Vui lòng liên hệ với bộ phận hỗ trợ."
+  },
+  "unhandledErr": {
+    "message": "Có vẻ như bạn vào sai trang. Vui lòng thử trang khác."
+  },
+  "providerInitErr": {
+    "message": "Không thể khởi chạy nhà cung cấp dịch vụ thanh toán."
+  },
+  "paymentRejectedErr": {
+    "message": "Thanh toán bị từ chối. Vui lòng kiểm tra chi tiết thanh toán của bạn và thử lại."
+  },
+  "POUND": {
+    "message": "pao"
+  },
+  "KG": {
+    "message": "kilogam"
+  },
+  "RUB": {
+    "message": "₽"
+  },
+  "USD": {
+    "message": "$"
+  },
+  "EUR": {
+    "message": "€"
+  },
+  "GBP": {
+    "message": "£"
+  },
+  "INR": {
+    "message": "₹"
+  },
+  "ILS": {
+    "message": "₪"
+  },
+  "UAH": {
+    "message": "₴"
+  },
+  "VND": {
+    "message": "₫"
+  },
+  "marginImpact": {
+    "message": "Lợi nhuận ròng"
+  },
+  "marginImpactTooltip": {
+    "message": "An item’s margins after paying FBA fees. This figure is shown as a percentage."
+  },
+  "refresh": {
+    "message": "Làm mới"
+  },
+  "feedback": {
+    "message": "Phản hồi"
+  },
+  "paymentInfo": {
+    "message": "Thông tin thanh toán"
+  },
+  "choosePaymentMethod": {
+    "message": "Chọn phương thức thanh toán"
+  },
+  "paymentMethod_card": {
+    "message": "Thẻ ngân hàng"
+  },
+  "chromeStore": {
+    "message": "Cửa hàng Chrome"
+  },
+  "noFees": {
+    "message": "Không có phí phát sinh"
+  },
+  "moneyBack": {
+    "message": "Đảm bảo hoàn 100% tiền"
+  },
+  "paymentFooterMessage": {
+    "message": "Gia nhập hơn <strong>40 000+</strong> người bán thành đạt trên Amazon bằng AMZScout"
+  },
+  "keepTracking": {
+    "message": "Nhận lợi nhuận khoảng $ 500 trong tháng đầu tiên bằng cách chọn một sản phẩm mang lại lợi nhuận"
+  },
+  "buy": {
+    "message": "Mua"
+  },
+  "buyNow": {
+    "message": "Mua ngay giờ"
+  },
+  "getMoreSearches": {
+    "message": "Get More Searches"
+  },
+  "searchesResetDate": {
+    "message": "Reset date"
+  },
+  "oneTimeFee": {
+    "message": "Phí thanh toán một lần"
+  },
+  "monthlyFee": {
+    "message": "Thanh toán hàng tháng"
+  },
+  "freeLaunchesLeft": {
+    "message": ":freeLaunchesLeft chạy tự do rời"
+  },
+  "freeLaunchesLeftSingle": {
+    "message": ":freeLaunchesLeft chạy tự do rời"
+  },
+  "searchesLeft": {
+    "message": ":freeLaunchesLeft searches left"
+  },
+  "faq": {
+    "message": "FAQ"
+  },
+  "trialEnded": {
+    "message": "Thời hạn dùng thử của bạn đã hết"
+  },
+  "trialEndedAlert": {
+    "message": "Bạn nên mua ứng dụng AMZScout để được dùng thêm nhiều tính năng"
+  },
+  "buyPrice": {
+    "message": "Giấy phép Lifetime với :price::currency"
+  },
+  "buyPriceRecurring": {
+    "message": "thuê bao 1 tháng với :price::currency"
+  },
+  "sponsored": {
+    "message": "Được tài trợ"
+  },
+  "hideSponsored": {
+    "message": "Ẩn tài trợ"
+  },
+  "signUp": {
+    "message": "Đăng kí bằng"
+  },
+  "signUpWithChrome": {
+    "message": "Chrome"
+  },
+  "signUpWithGoogle": {
+    "message": "Google"
+  },
+  "signUpWithFacebook": {
+    "message": "Facebook"
+  },
+  "signUpWithWeibo": {
+    "message": "Weibo"
+  },
+  "signUpWithEmail": {
+    "message": "Email"
+  },
+  "signUpTitle": {
+    "message": "Đăng ký để tìm <br><span class='highlight'>Sản phẩm có lợi nhuận</span>"
+  },
+  "signUpMessage1": {
+    "message": "Không cần thẻ tín dụng trong quá trình dùng thử"
+  },
+  "signUpMessage2": {
+    "message": "Bạn sẽ nhận được ứng dụng đầy đủ chức năng sau khi đăng ký"
+  },
+  "signUpMessage3": {
+    "message": "Dữ liệu cá nhân của bạn an toàn"
+  },
+  "faq_title": {
+    "message": "F.A.Q."
+  },
+  "faq_q_0": {
+    "message": "Is the cost for the PRO Extension a one-time fee or is it monthly?"
+  },
+  "faq_a_0": {
+    "message": "You can purchase a monthly, annual, or lifetime subscription for the PRO Extension <a class=\"fag-link\" href=\":url/pricing/?r=faq_pro\" target=\"_blank\">here</a>. You will be charged monthly or annually, and the license will be extended. If you opt for a lifetime license, it will be a one-time fee only."
+  },
+  "faq_q_1": {
+    "message": "I bought the PRO Extension, how do I use it?"
+  },
+  "faq_a_1": {
+    "message": "Check out the <a class=\"fag-link\" href=\":tutorial\" target=\"_blank\">PRO Extension tutorial</a> so you can enjoy a quick and productive start with your profitable product research! If you have any questions after that, our support will be happy to help, just email <a class=\"fag-link\" href=':email'>support@amzscout.net</a>."
+  },
+  "faq_q_2": {
+    "message": "Are the values in PRO Extension monthly, daily, or yearly estimates?"
+  },
+  "faq_a_2": {
+    "message": "Sales, revenue, and other parameters you see right away are estimated monthly values. You can see daily estimates on the product history diagram."
+  },
+  "faq_q_3": {
+    "message": "How are the estimated values calculated?"
+  },
+  "faq_a_3": {
+    "message": "These values are calculated using the formula we developed, and is updated continuously to match Amazon closely. It relies on the ranking of the product in a category."
+  },
+  "faq_q_4": {
+    "message": "What does the Net Margin column mean?"
+  },
+  "faq_a_4": {
+    "message": "This refers to the amount you’ll see from selling an item after Amazon’s FBA and referral fees."
+  },
+  "faq_q_5": {
+    "message": "What does the LQS column mean?"
+  },
+  "faq_a_5": {
+    "message": "This stands for Listing Quality Score. AMZScout analyzes many product description aspects to evaluate the listing quality. The lower the average LQS in the niche, the easier it is to enter that market, since you can make a superior listing and stand out from the competition. To see more details, hover your cursor over the LQS value."
+  },
+  "faq_q_6": {
+    "message": "What does the RPR column mean?"
+  },
+  "faq_a_6": {
+    "message": "RPR stands for Revenue Per Review. This metric reflects monthly revenue volume relative to the number of reviews a product has. A higher RPR means better selling opportunities on Amazon."
+  },
+  "faq_q_7": {
+    "message": "Is the FBA fee calculated by piece or by volume?"
+  },
+  "faq_a_7": {
+    "message": "The FBA fee is calculated by piece, and is based on the shipping size and shipping weight on the product page. This amount indicates the fees for one month."
+  },
+  "faq_q_8": {
+    "message": "What is the difference between the PRO Extension and the AMZScout desktop app?"
+  },
+  "faq_a_8": {
+    "message": "The PRO Extension focuses more on the niche evaluation, while the AMZScout desktop app helps you find an exact product, and then provides keywords to actually help you sell the product. Please check out the <a class=\"fag-link\" href=\":url/amazon-sellers-bundle/?r=faq_pro\" target=\"_blank\">Amazon Seller's Bundle</a> and for specific details about how each of our tools can be used."
+  },
+  "faq_q_9": {
+    "message": "If I have another question or problem with AMZScout, how can I get support?"
+  },
+  "faq_a_9": {
+    "message": "The fastest way to get support is by emailing your question to <a class=\"fag-link\" href=':email'>support@amzscout.net</a>."
+  },
+  "rankHistory": {
+    "message": "Lịch sử Rank"
+  },
+  "salesHistory": {
+    "message": "Lịch sử bán hàng"
+  },
+  "priceHistory": {
+    "message": "Lịch sử giá"
+  },
+  "productCost": {
+    "message": "Chi phí sản phẩm"
+  },
+  "productPrice": {
+    "message": "Giá sản phẩm"
+  },
+  "additionalProductCost": {
+    "message": "Chi phí bổ sung cho mỗi đơn vị"
+  },
+  "additionalMonthlyCosts": {
+    "message": "Chi phí bổ sung hàng tháng"
+  },
+  "productWeight": {
+    "message": "Trọng lượng sản phẩm"
+  },
+  "packageWeight": {
+    "message": "Trọng lượng gói hàng"
+  },
+  "productSize": {
+    "message": "Kích cỡ sản phẩm"
+  },
+  "productSizeDimension": {
+    "message": "Kích cỡ gói"
+  },
+  "monthlyStorage": {
+    "message": "Lưu trữ hàng tháng"
+  },
+  "pickPack": {
+    "message": "Chọn & đóng gói"
+  },
+  "weightHandling": {
+    "message": "Chọn & đóng gói"
+  },
+  "referralFee": {
+    "message": "Phí giới thiệu"
+  },
+  "estimatedSales": {
+    "message": "Doanh số ước tính hàng tháng"
+  },
+  "piece": {
+    "message": "cái."
+  },
+  "totalFee": {
+    "message": "Tổng chi phí FBA"
+  },
+  "totalFeeTooltip": {
+    "message": "The FBA Fee is calculated for each product as if it were sold using Amazon FBA"
+  },
+  "estimatedRevenueTooltip": {
+    "message": "Lợi tức ước tính hàng tháng dựa trên Doanh số ước tính hàng tháng và Tác động lợi nhuận"
+  },
+  "estimatedRevenue": {
+    "message": "Lợi tức ước tính hàng tháng"
+  },
+  "profit": {
+    "message": "Lợi nhuận"
+  },
+  "roi": {
+    "message": "ROI"
+  },
+  "roiTooltip": {
+    "message": "Lợi nhuận đầu tư"
+  },
+  "addToTracker": {
+    "message": "Thêm vào Tracker"
+  },
+  "profitCalculator": {
+    "message": "Máy tính Lợi nhuận"
+  },
+  "INCH": {
+    "message": "inch"
+  },
+  "CM": {
+    "message": "cm"
+  },
+  "closingFee": {
+    "message": "Phí đóng cửa"
+  },
+  "deliveryFee": {
+    "message": "Phí giao hàng"
+  },
+  "cessFee": {
+    "message": "Dịch vụ & sau trung học Phí"
+  },
+  "referralMessage": {
+    "message": "Chia sẻ liên kết này với bạn bè của bạn và bạn sẽ nhận được 1 tuần nữa cho miễn phí cho tất cả các bạn, những người sẽ đăng ký. bạn của bạn sẽ nhận được 1 tuần miễn phí quá."
+  },
+  "estimatedProfit": {
+    "message": "Ước tính lợi nhuận hàng tháng"
+  },
+  "estimatedProfitTooltip": {
+    "message": "lợi nhuận hàng tháng ước tính dựa trên doanh hàng tháng ước tính và Margin Impact"
+  },
+  "favorites": {
+    "message": "Yêu thích"
+  },
+  "favoritesTooltip":{
+    "message": "Sản phẩm yêu thích của bạn"
+  },
+  "getNicheIdea":{
+    "message": "Product ideas"
+  },
+  "getProductIdeasMenuFirstItem":{
+    "message": "Random product idea"
+  },
+  "getProductIdeasMenuSecondItem":{
+    "message": "TOP 1,000 bestsellers"
+  },
+  "getProductIdeasMenuThirdItem":{
+    "message": "New and trending items"
+  },
+  "getProductIdeasMenuFourthItem":{
+    "message": "Order product research"
+  },
+  "getProductIdeasMenuFifthItem":{
+    "message": "Analyze your product"
+  },
+  "learning": {
+    "message": "Learning"
+  },
+  "inventory": {
+    "message": "Hàng tồn kho"
+  },
+  "inventoryTooltip": {
+    "message": "The number of items in stock."
+  },
+  "searchAli": {
+    "message": "Tìm tại AliBaba"
+  },
+  "copyASIN": {
+    "message": "Sao chép ASIN"
+  },
+  "getKeywords": {
+    "message": "Lấy thêm từ khoá"
+  },
+  "keyword": {
+    "message": "từ khóa"
+  },
+  "keywords": {
+    "message": "Từ khóa"
+  },
+  "nicheKeywords": {
+    "message": "Từ khóa thích hợp"
+  },
+  "getNicheKeywords": {
+    "message": "Nhận từ khóa thích hợp"
+  },
+  "keywordsPropositionFind": {
+    "message": "Nhận <span class='modal--keywords__decor'> hàng ngàn từ khóa </span> cho sản phẩm này, ngay cả những từ mà đối thủ của bạn không yêu thích!"
+   },
+   "keywordsPropositionReverse": {
+    "message": "Mở Tra cứu ASIN ngược để có thêm từ khóa"
+   },
+   "keywordsPropositionLearn": {
+    "message": "GO TO THE AMZSCOUT ASIN LOOKUP"
+   },
+  "keywordsNotFound": {
+    "message": "Thật không may, chúng tôi đã không tìm thấy bất kỳ từ khóa"
+  },
+  "occurrencesNumber": {
+    "message": "Số lần xuất hiện"
+  },
+  "maxImport": {
+    "message": "Số lượng tối đa cho việc nhập khẩu ::count sản phẩm"
+  },
+  "emptyImport": {
+    "message": "Không tìm thấy sản phẩm, hãy kiểm tra tệp của bạn"
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "modalTitle": {
+    "message": "Thông điệp"
+  },
+  "yes": {
+    "message": "Vâng"
+  },
+  "no": {
+    "message": "Không"
+  },
+  "bestSeller": {
+    "message": "BS"
+  },
+  "bestSellerTooltip": {
+    "message": "Bestseller (BS) shows if the item is a best-selling product on Amazon."
+  },
+  "bestSellerCategory": {
+    "message": "Người bán tốt nhất trong"
+  },
+  "bestSellerLink": {
+    "message": "Thể loại URL bán tốt nhất"
+  },
+  "toggleFilterTitle": {
+    "message": "Bật/tắt bộ lọc"
+  },
+  "aboutModalTitle": {
+    "message": "Giới thiệu về ứng dụng"
+  },
+  "aboutAppVersion": {
+    "message": "Phiên bản ứng dụng"
+  },
+  "aboutRegisteredTo": {
+    "message": "Đăng ký vào"
+  },
+  "aboutLicenceType": {
+    "message": "Loại giấy phép"
+  },
+  "aboutLicence": {
+    "message": "Giấy phép"
+  },
+  "aboutExpires": {
+    "message": "Hết hạn"
+  },
+  "monthly": {
+    "message": "Hàng tháng"
+  },
+  "annual": {
+    "message": "Hàng năm"
+  },
+  "save": {
+    "message": "Tiết kiệm"
+  },
+  "lifetime": {
+    "message": "Cả đời"
+  },
+  "forever": {
+    "message": "Nhận mãi mãi"
+  },
+  "try": {
+    "message": "Thử"
+  },
+  "paywallTitleTop": {
+    "message": "Tìm sản phẩm có lợi nhuận và đánh bại đối thủ cạnh tranh của bạn"
+  },
+  "paywallTitleBottom": {
+    "message": "Tiếp tục kiếm thêm tiền!"
+  },
+  "paywallTagline": {
+    "message": "Doanh nghiệp thành công của bạn trên Amazon"
+  },
+  "selectYourPlan": {
+    "message": "Chọn kế hoạch của bạn"
+  },
+  "yourPlan": {
+    "message": "Kế hoạch của bạn"
+  },
+  "payment": {
+    "message": "Số tiền thanh toán"
+  },
+  "paymentChooseMethod": {
+    "message": "Сhọn cách thanh toán của bạn"
+  },
+  "selectPlan": {
+    "message": "Chọn Kế hoạch"
+  },
+  "benefits": {
+    "message": "Lợi ích"
+  },
+  "benefit1": {
+    "message": "Tìm hốc – giảm thiểu rủi ro"
+  },
+  "benefit2": {
+    "message": "Chính xác thời gian thực số liệu – tối đa hóa lợi nhuận"
+  },
+  "benefit3": {
+    "message": "Xác nhận và bán với sự tự tin"
+  },
+  "licenceFull": {
+    "message": "Đã thanh toán"
+  },
+  "licenceTrial": {
+    "message": "Thử nghiệm"
+  },
+  "alreadyPaid": {
+    "message": "Tôi đã thanh toán"
+  },
+  "paymentDone": {
+    "message": "thanh toán được thực hiện"
+  },
+  "skip": {
+    "message": "Nhảy"
+  },
+  "next": {
+    "message": "Kế tiếp"
+  },
+  "next5pages": {
+    "message": "5 trang tiếp theo"
+  },
+  "next20pages": {
+    "message": "20 trang tiếp theo"
+  },
+  "startTrial": {
+    "message": "Bắt đầu thử nghiệm"
+  },
+  "s1h": {
+    "message": "Thói quen không có thu <br>thập dữ liệu"
+  },
+  "s1f": {
+    "message": "được tất cả các dữ liệu để đưa ra quyết <br>định trong vài cú nhấp chuột."
+  },
+  "s2h": {
+    "message": "Tìm sản phẩm có tiềm năng lớn"
+  },
+  "s2f": {
+    "message": "ước tính tiềm năng thích hợp dựa trên dữ <br>liệu bán hàng đáng tin cậy."
+  },
+  "s3h": {
+    "message": "Giảm thiểu rủi ro của bạn"
+  },
+  "s3f": {
+    "message": "biết bao nhiêu sản phẩm bạn sẽ bán <br>trong vòng 1 tháng."
+  },
+  "s4h": {
+    "message": "Lấy kết quả mà bạn mong đợi"
+  },
+  "s4f": {
+    "message": "bằng cách làm cho quyết định đúng đắn."
+  },
+  "tips": {
+    "message": "Gợi ý"
+  },
+  "stopShowingTips": {
+    "message": "Không hiển thị"
+  },
+  "strictFilterTooltip": {
+    "message": "Các thông số bộ lọc quá nghiêm ngặt. Hãy thử thay đổi chúng hoặc tắt bộ lọc."
+  },
+  "activeLimit": {
+    "message": "Giới hạn cài đặt"
+  },
+  "activeExceed": {
+    "message": "Đã vượt quá số lượng thiết bị đang hoạt động"
+  },
+  "t0": {
+    "message": "Các tiêu đề của cột có các gợi ý bật ra. Bạn có thể bấm vào bất kì tiêu đề nào và sắp dữ liệu trong bảng tính theo chỉ số này."
+  },
+  "t1": {
+    "message": "Tất cả các số màu xanh lam và các hàng trong bảng tính sản phẩm đều có thể bấm vào được."
+  },
+  "t2": {
+    "message": "Nếu ông bấm vào một giá trị bằng Phí FBA hoặc cột Giá ròng, bạn sẽ mở Trình tính toán Lợi nhuận, vốn sẽ cho phép bạn nhập chi phí sản phẩm để tính toán lợi nhuận và ROI"
+  },
+  "t3": {
+    "message": "NẾu bạn rê con trỏ lên trên giá trị LQS trong vài giây, bạn sẽ thấy thêm chi tiết về chất lượng của bản kê."
+  },
+  "t4": {
+    "message": "Nếu bạn bấm vào giá trị của giá, bạn sẽ thấy biểu đồ với giá thay đổi theo thời gian."
+  },
+  "t5": {
+    "message": "Nếu bạn bấm vào giá trị ở cột HẠng, bạn sẽ thấy biểu đồ của hạng xếp thay đổi theo thời gian."
+  },
+  "t6": {
+    "message": "Nếu bạn di chuyển con trỏ ở trên ba chấm dọc ở bên phải, bạn sẽ mở menu xổ xuống, vốn cho phép bạn tìm thấy sản phẩm tương tự trên Alibaba."
+  },
+  "t7": {
+    "message": "Bạn có thể tìm ý tưởng từ khóa để quảng cáo sản phẩm của bạn hiệu quả chỉ bằng cách nhấp vào 3 chấm dọc bên phải và chọn hành động cần thiết."
+  },
+  "t8": {
+    "message": "Sản phẩm là người bán tốt nhất với xếp hạng 1 nếu có dấu tròn màu cam trong cột BSR. Tìm hiểu loại sản phẩm nào bán được tốt nhất để di chuột qua dấu."
+  },
+  "t9": {
+    "message": "Thêm sản phẩm tiềm năng vào mục yêu thích bằng cách nhấp vào dấu sao ở bên trái và kiểm tra chúng bất cứ khi nào bạn muốn bằng cách nhấp vào nút Ưa thích ở cuối trang."
+  },
+  "t10": {
+    "message": "Cột EBC hiển thị dấu kiểm màu xanh lục khi sản phẩm có Nội dung thương hiệu nâng cao hoặc danh sách A +.<br>EBC mở cửa cho người bán đã được chấp nhận làm chủ sở hữu thương hiệu thông qua quy trình Brand Registry của Amazon"
+  },
+  "pw1ExpiredTitle": {
+    "message": "Rất tiếc, thời gian dùng thử của bạn đã hết hạn."
+  },
+  "pw1ExpiredSubTitle": {
+    "message": "Để tiếp tục sử dụng phần mở rộng AMZScout PRO, hãy xem kế hoạch thanh toán bên dưới."
+  },
+  "pw1BuyNowTitle": {
+    "message": "Tìm sản phẩm có lợi nhuận và đánh bại đối thủ cạnh tranh của bạn"
+  },
+  "pw1PlanMonthlyName": {
+    "message": "Mỗi tháng"
+  },
+  "pw1PlanMonthlyHint": {
+    "message": "Tìm vị trí đầu tiên của bạn trong vòng vài phút!"
+  },
+  "pw1PlanAnnualName": {
+    "message": "Mỗi năm"
+  },
+  "pw1PlanMostPopular": {
+    "message": "phổ biến nhất"
+  },
+  "pw1PlanAnnualHint": {
+    "message": "Xác định các sản phẩm có lợi nhất!"
+  },
+  "pw1PlanAnnualPriceHint": {
+    "message": "(75% giá rẻ hơn!)"
+  },
+  "pw1PlanLifetimeName": {
+    "message": "Cả đời"
+  },
+  "pw1PlanLifetimeHint": {
+    "message": "Truy cập không giới hạn vào dữ liệu bán hàng chính xác nhất!"
+  },
+  "pw1PlanLifetimePriceHint": {
+    "message": " "
+  },
+  "pw1PlansTitle": {
+    "message": "chọn kế hoạch của bạn"
+  },
+  "pw1PaymentTitle": {
+    "message": "Thanh toán"
+  },
+  "pw1MainTitle": {
+    "message": "Giá trị"
+  },
+  "pw1PanelProfit1": {
+    "message": "Giảm thiểu rủi ro"
+  },
+  "pw1PanelProfit2": {
+    "message": "Tối đa hóa lợi nhuận"
+  },
+  "pw1PanelProfit3": {
+    "message": "Bán với niềm tin"
+  },
+  "pw1PanelProfit4": {
+    "message": "Đảm bảo lại tiền"
+  },
+  "pw1PayWithCard": {
+    "message": "Thanh toán bằng thẻ ngân hàng"
+  },
+  "pw1PayWith": {
+    "message": "Thanh toán bằng"
+  },
+  "pw1AlreadyPaid": {
+    "message": "Tôi đã thanh toán rồi"
+  },
+  "pw1Or": {
+    "message": "hoặc là"
+  },
+  "pw1StripePowered": {
+    "message": "Được hỗ trợ bởi Stripe."
+  },
+  "pw1Terms": {
+    "message": "Điều kiện"
+  },
+  "pw1Privacy": {
+    "message": "Riêng tư."
+  },
+  "pw1And": {
+    "message": "và"
+  },
+  "pw1StripeMoneyBack": {
+    "message": "Thanh toán của bạn được bảo vệ bởi Stripe"
+  },
+  "pw1PayPalBuyerProtection": {
+    "message": "Chương trình bảo vệ người mua PayPal"
+  },
+  "pw1TrustpilotReviews": {
+    "message": ":reviews đánh giá"
+  },
+  "tutorial": {
+    "message": "Seller Kit"
+  },
+  "tutorialTitle": {
+    "message": "Hướng dẫn AMZScout PRO Extension"
+  },
+  "freshNicheIdea": {
+    "message": "Bạn có một ý tưởng thích hợp mới!"
+  },
+  "show": {
+    "message": "Chỉ"
+  },
+  "featureIsNotAvailable": {
+    "message": "Tính năng này có sẵn trong phiên bản trả tiền"
+  },
+  "allRowsAreNotAvailable": {
+    "message": "Tất cả các hàng sẽ có sẵn trong phiên bản trả tiền."
+  },
+  "product_score_high": {
+    "message": "Một sản phẩm tuyệt vời để dễ dàng sao chép và bán."
+  },
+  "product_score_middle": {
+    "message": "Một sản phẩm mà bạn có thể bán có một số kinh nghiệm."
+  },
+  "product_score_low": {
+    "message": "Một sản phẩm làm việc chăm chỉ để đạt được doanh thu."
+  },
+  "youCanSkipThisIn": {
+    "message": "Vui lòng đợi"
+  },
+  "noCreditCard": {
+    "message": "Không cần thẻ tín dụng"
+  },
+  "signOut": {
+    "message": "Đăng xuất"
+  },
+  "friendyNASales": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Khó có thể nói vì Amazon không cung cấp thứ hạng trong danh mục chính cho sản phẩm này. Nếu thứ hạng trong danh mục con nhỏ, sản phẩm bán ok.</span></div>"
+  },
+  "friendyNAInventory": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Thật khó để nói mức độ tồn kho của sản phẩm này là gì.</span></div>"
+  },
+  "step": {
+    "message": "Step"
+  },
+  "alreadyPaidQuestion": {
+    "message": "If you paid for PRO Extension and are still experiencing licensing issues, please follow these steps to fix it:"
+  },
+  "alreadyPaidStep1": {
+    "message": "Delete the AMZScout PRO Extension from your Chrome browser"
+  },
+  "alreadyPaidStep2": {
+    "message": "<a target='_blank' class='btn--dotted already-pay__btn_dotted' href='https://chrome.google.com/webstore/detail/amzscout-pro/njopapoodmifmcogpingplfphojnfeea?hl=en-US'>Reinstall</a> the AMZScout PRO Extension on Chrome"
+  },
+  "alreadyPaidStep2Edge": {
+    "message": "<a target='_blank' class='btn--dotted already-pay__btn_dotted' href='https://microsoftedge.microsoft.com/addons/detail/idcpecldgbbabloifgjogemdifohldkd'>Reinstall</a> the AMZScout PRO Extension on Edge"
+  },
+  "alreadyPaidStep3": {
+    "message": "Log on to the AMZScout PRO Extension on Chrome, and enjoy!"
+  },
+  "alreadyPaidContact": {
+    "message": "Please contact us at <a class='btn--dotted already-pay__btn_dotted' href='mailto:support@amzscout.net'>support@amzscout.net</a> if this didn’t solve the problem."
+  },
+  "igotIt": {
+    "message": "I got it"
+  },
+  "gotoFindP": {
+    "message": "Go to finding a product"
+  },
+  "checkProfit": {
+    "message": "Check If Profitable"
+  },
+  "of": {
+    "message": "of"
+  },
+  "enterP": {
+    "message": "Enter a product"
+  },
+  "onboardNotShure": {
+    "message": "Not sure what to look for? Try one of our suggestions:"
+  },
+  "onboardResearch": {
+    "message": "Research you first niche with PRO Extension!"
+  },
+  "onboardCheck": {
+    "message":"To check whether a niche is profitable, simply enter its name and click «Check If Profitable»."
+  },
+  "onboardWillsee": {
+    "message": "You will see items with similar names currently sold on Amazon along with their <span class='step__desc_decor'> Monthly Sales, Reviews, Best Seller Rank, </span> and other key statistics you need to evaluate them."
+  },
+  "onboardWelcome": {
+    "message": "Welcome to AMZScout PRO Extension"
+  },
+  "onboardHelps": {
+    "message": "PRO Extension helps you find the perfect product to sell on Amazon"
+  },
+  "onboardSelect": {
+    "message": "Select your experience level with Amazon"
+  },
+  "onboardAdjust": {
+    "message": "We will adjust the amount of pop up tips and certain parameters based on your experience. You will be able to change this choice later in the Settings."
+  },
+  "onboardBeginner": {
+    "message": "Beginner"
+  },
+  "onboardYouNew": {
+    "message": "If you are new to Amazon research, you’ll see vital parameters that will help you choose a great product quickly. Great for learning."
+  },
+  "onboardExpert": {
+    "message": "Expert"
+  },
+  "onboardAsExpert": {
+    "message": "As an expert, you’ll see the full data and be able to fine-tune your research."
+  },
+  "negativeNumberTooltip": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Beware, this is a negative Est.Monthly Profit / Net Margin / Profit Per Unit you might have if you sell with an FBA program. The sellers of this product actually have a positive profit because they are selling as FBM or through Vendor Central, who pay different fees.</span></div>"
+  },
+  "hot": {
+    "message": "Hot"
+  },
+  "grewM": {
+    "message": "Grew by 20% for the past month"
+  },
+  "grew3M": {
+    "message": "Grew by 20% for the past 3 months"
+  },
+  "videoT": {
+    "message": "Video Tutorial"
+  },
+  "howToStart": {
+    "message": "How to start"
+  },
+  "howToUserProExt": {
+    "message": "How to use Pro Extension"
+  },
+  "howTips": {
+    "message": "Tips from experts"
+  },
+  "howHacks": {
+    "message": "Amazon hacks"
+  },
+  "findProfit": {
+    "message": "Find profitable products and niches"
+  },
+  "choosingBest": {
+    "message": "Choosing the best niche with AMZScout Scores"
+  },
+  "bundlingItems": {
+    "message": "Bundling items to double your revenue"
+  },
+  "howToUsePro": {
+    "message": "How to use AMZScout PRO Extension"
+  },
+  "stepByC": {
+    "message": "Step-by-step  Course"
+  },
+  "learnHowToSell": {
+    "message": "Learn how to sell on Amazon"
+  },
+  "masterclasses": {
+    "message": "MasterClasses"
+  },
+  "bestPractices": {
+    "message": "Best Practices from experts"
+  },
+  "blog": {
+    "message": "Blog "
+  },
+  "saturationScore": {
+    "message": "Điểm hiển thị"
+ },
+ "saturationScoreTooltip": {
+  "message": "This score is based on a percentage of AMZScout customers who found this product niche."
+},
+ "saturationScoreTTLow": {
+  "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:visits%</span> of our users have found this niche. A very small number of sellers have noticed this niche while researching the market. The chances of making a successful business and significant profit in this niche are extremely high.</p>"
+},
+"saturationScoreMiddle": {
+  "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:visits%</span> of our users have found this niche. Although a significant number of sellers consider this niche in their market research, there aren't too many of them. It makes sense to enter and take a position in this niche right now because it has significant potential and is not yet saturated.</p>"
+},
+"saturationScoreHigh": {
+  "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:visits%</span> of our users have found this niche. This niche is often seen by many sellers researching the market. Their high interest in this niche can indicate either that it is a large niche with big sales and high competition or that there are some notable trends prompting sellers to market research in this niche.</p>"
+},
+"nicheSuppliers": {
+  "message":"Suppliers for Niche"
+},
+"nicheSuppliersFavorite": {
+  "message": "Favorite Suppliers"
+},
+"nicheFilterBtn": {
+  "message": "Search"
+},
+"supplierCountry": {
+  "message": "Supplier country"
+},
+"currencyType": {
+  "message": "Currency type"
+},
+"priceRange": {
+  "message": "Price range"
+},
+"orderQuantity": {
+  "message": "Minimum Order Quantity"
+},
+"suppliersTrade": {
+  "message": "Supporting trade assurance only"
+},
+"suppliersVerified": {
+  "message": "Verified only"
+},
+"reset": {
+  "message": "Reset"
+},
+"suppliersON": {
+  "message": "suppliers on"
+},
+"startingAt": {
+  "message": "Starting at $$:lowestPrice per unit"
+},
+"products": {
+  "message": "products on"
+},
+"suppliedBy": {
+  "message": "Supplied by:"
+},
+"businessType": {
+  "message": "Business type:"
+},
+"verifiedSince": {
+  "message": "Verified since"
+},
+"reviewScore": {
+  "message": "Review score:"
+},
+"revenueNiche": {
+  "message": "Revenue per 6 month: <span class='niche-item__score-value'>:halfYearSalesAmout</span> in <span class='niche-item__revenue-value'>:halfYearOrderNumber</span> transactions"
+},
+"nicheAddFavorite": {
+  "message": "Add to favorites"
+},
+"nicheRemoveFavorite": {
+  "message": "Remove from favorites"
+},
+"contactSupplier":{
+  "message": "Contact Supplier"
+},
+"mainProducts": {
+  "message": "Main products"
+},
+
+"nofavorites": {
+  "message": "You have not added any products to your Favorites yet"
+},
+
+"nosuppliers": {
+  "message": "There are no suppliers on Alibaba for this keyword corresponding to these filter settings. </br>Please try other filter settings or another keyword."
+},
+
+"moq": {
+  "message": "MOQ"
+},
+
+"youViewed": {
+  "message": "You've viewed"
+},
+
+"mainProductsT": {
+  "message": "<div class='niche__tooltip-wrap'><div class='niche__tooltip-title'><strong>The main products from this supplier are:</strong></div><div class='niche__tooltip-content'>:mainProducts</div></div>"
+},
+
+"searchSuppTitle": {
+  "message": "Suppliers on Alibaba"
+},
+"searchSupplierDisabled": {
+  "message": "To find a supplier on Alibaba with Extension Pro, please open a specific product page on Amazon or type a keyword into the search bar on Amazon to open the search results page"
+},
+
+"searchSuppliers": {
+  "message": "Search Suppliers"
+},
+
+"chartMaxPeriod": {
+  "message": "Maximum available period"
+},
+"chartYear": {
+  "message": "year"
+},
+"chartYears": {
+  "message": "years"
+},
+"chartMonth": {
+  "message": "month"
+},
+"chartMonths": {
+  "message": "months"
+},
+"chartselectPeriod": {
+  "message": "Select period:"
+},
+"personalizeView": {
+  "message": "By clicking the Personalize View button, you can customize your view of the data in the Extension"
+},
+"ch": {
+  "message": "China"
+},
+"us": {
+  "message": "United States"
+},
+"usa": {
+  "message": "USA"
+},
+"ind": {
+  "message": "India"
+},
+"pk": {
+  "message": "Pakistan"
+},
+"vi": {
+  "message": "Vietnam"
+},
+"uk": {
+  "message": "United Kingdom"
+},
+"th": {
+  "message": "Thailand"
+},
+"sa": {
+  "message": "South Africa"
+},
+"ph": {
+  "message": "Philippines"
+},
+"jp": {
+  "message": "Japan"
+},
+"my": {
+  "message": "Malaysia"
+},
+"tr": {
+  "message": "Turkey"
+},
+"sg": {
+  "message": "Singapore"
+},
+"de": {
+  "message": "Germany"
+},
+"sc": {
+  "message": "South Korea"
+},
+"ca": {
+  "message": "Canada"
+},
+"fr": {
+  "message": "France"
+},
+"it": {
+  "message": "Italy"
+},
+"consideredHOT": {
+  "message": "This product is considered HOT because its sales grew by 20% or more for the past :textHot."
+},
+"view": {
+  "message": "View"
+},
+"theyearly": {
+  "message": " the yearly sales history of the product to check for yourself."
+},
+"nextP": {
+  "message": "Next Page"
+},
+"previousP": {
+  "message": "Previous Page"
+},
+"page": {
+  "message": "Page"
+},
+"page1": {
+  "message": " "
+},
+"textNodatafull": {
+  "message": "*There is no price, sales and rank history for this product for this date"
+},
+"textNodatapriceNo": {
+  "message": "*There is no price history for this product for this date"
+},
+"textNodatarankNo": {
+  "message": "*There is no rank history for this product for this date"
+},
+"textNodatasalesNo": {
+  "message": "*There is no sales history for this product for this date"
+},
+"textNodatapriceandsalesNo": {
+  "message": "*There is no price and sales history for this product for this date"
+},
+"textNodatarankandsalesNo": {
+  "message": "*There is no rank and sales history for this product for this date"
+},
+"textNodatapriceandrankNo": {
+  "message": "*There is no price and rank history for this product for this date"
+},
+"textSameDatasales": {
+  "message": "There is not enough data to estimate sales volume changes for some periods after "
+},
+"textCurrentSalesValue": {
+  "message": "Current estimated daily sales volume is # items "
+},
+"variationsTips": {
+  "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Products on Amazon can have multiple variations (eg. colors, sizes, etc). <br> <br> This product has :variations variations on Amazon. The Sales Estimation column provided in PRO  Extension is for all variations added together. If you would like to check the popularity and demand for a specific color or size of a product, you can enter corresponding keywords into <a class='hot-tooltip__link' target='_blank' href=\":url\">Keyword Search.</a></span></div>"
+},
+"dataLoading": {
+  "message": "Data is loading"
+},
+  "searchPlaceHolder": {
+    "message": "Enter a product to search, eg. plastic straw rug"
+  },
+  "searchButtonCaption": {
+    "message": "Search products"
+  },
+  "units": {
+    "message": "Measurement System"
+  },
+  "britainUnitSystem": {
+    "message": "inch-lb"
+  },
+  "metricUnitSystem": {
+    "message": "cm-kg"
+  },
+  "bestAmazonSellers": {
+    "message": "Amazon Best Sellers"
+  },
+  "naTooltip":{
+    "message": "<div class='friendly-na new-na english'><div class='i-wrapper'><i class='i-alert-circle'></i></div><div>There is no relevant data about this parameter of the product on Amazon</div></div>"
+  },
+  "sellerTipsBtn": {
+    "message": "Seller Tips"
+  },
+  "sellerTipsOption1btn": {
+    "message": "Let's go!"
+  },
+  "sellerTipsOption2btn": {
+    "message": "Let's go!"
+  },
+  "sellerTipsTitle": {
+    "message": "Welcome to AMZScout Seller Tips!"
+  },
+  "sellerTipsDescription": {
+    "message": "<div>AMZScout Product Database generates profitable product ideas and allows the opportunity to select the best products out of a profitable niche on 10 Amazon marketplaces.</div><div>We are happy to share our knowledge on using the Product Database.</div><div>Please specify which suggestions are more applicable to your goals when starting and growing an Amazon business.</div>"
+  },
+  "sellerTipsOption1": {
+    "message": "<h5 class='seller-option-title first-option'>Launch your brand on Amazon</h5><p class='seller-option-cost'>(for a budget from $$3,000)</p>"
+  },
+  "sellerTipsOption2": {
+    "message": "<h5 class='seller-option-title'>Start selling quickly without launching a brand</h5><p class='seller-option-cost'>(for a budget from $$500)</p>"
+  },
+  "stepHeader_br1": {
+    "message": "Launch Your Amazon Brand with the AMZScout PRO Extension"
+  },
+  "stepHeader_br2": {
+    "message": "Start Selling Quickly without Launching a Brand"
+  },
+  "sellerTipsStepDescription_br1_st1": {
+    "message": "<div class='sale-tips step-11'><p>After you get analytics for the products you are interested in using the PRO Extension, view the data of the listed product:</p><ul><li><strong>Sellers rank: </strong>The lower rank, the better a product sells in a certain category</li><li><strong>Estimated sales: </strong> Over 300 per month indicates a strong product performance.</li><li><strong>Net margin: </strong>A good margin is estimated to be over 50%, since it provides a gross profit</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br1_st2": {
+    "message": "<div class='sale-tips step-12'><p>Check the first available data and LQS parameter.</p><ul><li><strong>The date when the product was first available on</strong>Amazon shows if the product is brand new or not.</li><li><strong>Listing Quality Score (LQS):</strong>Provides a score from 0 to 100 of how well organized a listing is. The lower score, the lower the discoverability is in search results for a listing.</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br1_st3": {
+    "message": "<div class='sale-tips step-13'><p>Examine the <strong>Niche Score</strong> to see if your chosen niche has potential. The score of the niche is based on profit, competition, and demand (1 - it's extremely difficult to succeed in this niche, 10 - it's very likely to succeed in this niche).</p><div class='step1-3-img'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st4": {
+    "message": "<div class='sale-tips step-14'><p>Discover the <strong>Visibility Score</strong> that will help you understand how many AMZScout users found this niche during this month (1 - unsaturated, less than 10 people, 10 - extremely saturated). The fewer the better, as it means there will be less competition.</p></div>"
+  },
+  "sellerTipsStepDescription_br1_st5": {
+    "message": "<div class='sale-tips step15'><p>Check <strong>the product score for Private Label</strong>, which indicates if the margin, the level of competition, and the demand of the product suit the Private Label business. Make note of products that have a product score over 7.</p><div class='step1-5-img'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st6": {
+    "message": "<div class='sale-tips step16'><p>Click the arrow to the left of the product you’d like to check and click <strong>the product history</strong>. You will see how the product has sold over the period, so you will know if it’s in demand.</p><div class='step1-6-img'></div><p>Analyze various niches and choose a few with the best numbers. This is your shortlist.</p></div>"
+  },
+  "sellerTipsStepDescription_br1_st7": {
+    "message": "<div class='sale-tips step17'><p>Drive customers to your product listings with keywords from <strong>\"Niche keywords\"</strong>. The number in parentheses next to a keyword indicates the number of times the word has been mentioned in product titles on an Amazon page. In addition, you can find all the keywords for a specific product using the <strong>\"Get Keywords\"</strong> button on the functional bar next to the <strong>\"Product History\"</strong> button.</p><div class='step1-7-img'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st8": {
+    "message": "<div class='sale-tips step18'><p>Find a reliable supplier with <strong>“Suppliers on Alibaba”</strong>. Here, you can choose the right supplier for you from almost anywhere in the world – from the United States of America to China. If you have requirements by trade currency, purchase price, or minimum order quantity, you can also filter vendors by those criteria. If it is important to you that the supplier is verified and only supports trade assurances, then this feature will also suit your requirements.</p><div class='step1-8-img'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st9": {
+    "message": "<div class='sale-tips step19'><h3>Awesome!</h3><div>You now have all the knowledge about using the AMZScout PRO Extension to help you easily find profitable, low-competition products, the best keywords to promote on Amazon, and reliable suppliers.</div><p>Good luck in business!</p></div>"
+  },
+  "sellerTipsStepDescription_br2_st1": {
+    "message": "<div class='sale-tips step21'><p>After you get analytics for the products you are interested in using the PRO Extension, view the data of the listed product.</p><ul><li><strong>Net margin: </strong> It is preferable to have a margin over 50% so that you will still make a profit after paying the costs.</li><li><strong>The date when the product was first available on Amazon:</strong> This indicator is helpful to understand whether the product is consistently reliable or if it’s brand new.</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br2_st2": {
+    "message": "<div class='sale-tips step22'><p>Click the arrow to the left of the product you’d like to check and click <strong>the product history</strong>. You will see how the product has sold over the period, so you will know if it’s in demand or whether the product is seasonal (for example, not many people would like to buy Christmas decorations during summer). Look how the price fluctuates throughout the year to see if it will be profitable to sell this product.</p><div class='step2-2-img'></div>"
+  },
+  "sellerTipsStepDescription_br2_st3": {
+    "message": "<div class='sale-tips step23'><p>Check <strong>the product score for reselling</strong> with online arbitrage, dropshipping and wholesale, which indicates if margin, the level of competition, and the demand of the certain product suit the reselling business model. Make note of products that have a product score over 7.</p><div class='step2-3-img'></div></div>"
+  },
+  "sellerTipsStepDescription_br2_st4": {
+    "message": "<div class='sale-tips step24'><p>Pay attention to the <strong>Visibility Score</strong>, as it will help you understand how many AMZScout users found this niche during this month (1 - unsaturated, less than 10 people, 10 - extremely saturated). The fewer the better, as it means there will be less competition.</p></div>"
+  },
+  "sellerTipsStepDescription_br2_st5": {
+    "message": "<div class='sale-tips step19'><h3>Great!</h3><div>Checking sales trends is a crucial step in finding items that will be profitable for you to purchase and resell with online arbitrage, dropshipping and wholesale on Amazon. AMZScout’s PRO Extension is the best tool to help you to do it.</div><p>Good luck in the future!</p></div>"
+  },"newTips": {
+    "message": "AMZScout seller tips"
+  },
+  "newTipsDescription": {
+    "message": "How to use PRO Extension"
+  },
+  "date": {
+    "message": "Date"
+  },
+  "column_graph_tooltip_1": {
+    "message": "Click on any number in this column to get a history graph."
+  },
+  "column_graph_tooltip_2": {
+    "message": "Click on the blue numbers in this column to get a review history graph for each variation of the products."
+  },
+  "a_plus_content_short": {
+    "message": "A+"
+  },
+  "a_plus_content": {
+    "message": "A+ Content"
+  },
+  "a_plus_tooltip": {
+    "message": "Registered Brands may have higher quality listings that include enhanced images, videos, and more on their product pages. This is called “A+ Content”. This enables you to see if a product has an enhanced listing (previously called \"EBС\")."
+  },
+  "login_error_text1": {
+    "message": "There are currently some difficulties with the connection..."
+  },
+  "login_error_text2": {
+    "message": "Try again in 2-3 minutes"
+  },
+  "login_error_text3": {
+    "message": "or"
+  },
+  "login_error_text4": {
+    "message": "Contact us at <a href=\"mailto:support@amzscout.net\">support@amzscout.net</a>"
+  }
+}

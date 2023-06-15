@@ -1,0 +1,14 @@
+<svg width="700" height="193" viewBox="0 0 700 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Oval + Oval Copy + Oval Copy 2 Mask">
+<path id="Mask" d="M0 8C0 3.58173 3.58172 0 8 0H692C696.418 0 700 3.58172 700 8V193H0V8Z" fill="#FFF9F2"/>
+<mask id="mask0_1054_4801" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="700" height="193">
+<path id="Mask_2" d="M0 8C0 3.58173 3.58172 0 8 0H692C696.418 0 700 3.58172 700 8V193H0V8Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1054_4801)">
+<ellipse id="Oval" cx="11" cy="147.265" rx="63" ry="75.4286" fill="#FFF3E6"/>
+<ellipse id="Oval Copy" cx="366.5" cy="-53.2786" rx="122.5" ry="146.667" fill="#FFF3E6"/>
+<ellipse id="Oval Copy 2" cx="713.5" cy="38.9118" rx="14.5" ry="17.3605" fill="#FFF3E6"/>
+<ellipse id="Oval Copy 3" cx="607.5" cy="170.612" rx="47.5" ry="56.8708" fill="#FFF3E6"/>
+</g>
+</g>
+</svg>

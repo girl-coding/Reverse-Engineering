@@ -1,0 +1,2735 @@
+{
+  "appName": {
+    "message": "AMZScout PRO - AMAZON製品検索"
+  },
+  "appDesc": {
+    "message": "利益性の高い製品を見つけて、アマゾンで販売を開始しよう！ 売上見積もりとFBA手数料をご覧ください。"
+  },
+  "extendTrial": {
+    "message": "トライアル期間を延長する"
+  },
+  "extendTrialMessage": {
+    "message": "二か月間無料で始める"
+  },
+  "number": {
+    "message": "#"
+  },
+  "in": {
+    "message": "in"
+  },
+  "iAmIn": {
+    "message": "参加"
+  },
+  "results": {
+    "message": "結果"
+  },
+  "resultsTooltip": {
+    "message": "現在の Amazon ページに表示されている商品の数です。"
+  },
+  "avgSalesRank": {
+    "message": "平均ランキング"
+  },
+  "avgSalesRankTooltip": {
+    "message": "平均ランキングとは、現在のAmazonページに表示されている商品の平均ランキングを指します。"
+  },
+  "avgMonthlySales": {
+    "message": "平均月間販売数"
+  },
+  "avgMonthlySalesTooltip": {
+    "message": "「月間平均販売数」とは、現在の Amazon ページに表示されている商品の毎月の平均販売数を指します。"
+  },
+  "avgMonthlyRevenue": {
+    "message": "平均月間収益"
+  },
+  "avgMonthlyRevenueTooltip": {
+    "message": "「月間平均収入」とは、現在の Amazon ページに表示されている商品の毎月の平均収入を指します。"
+  },
+  "nicheHistory": {
+    "message": "市場履歴"
+  },
+  "nicheHistoryTooltip": {
+    "message": "市場履歴は、さまざまな期間における市場での販売数、ランキング、および価格のデータを示します。"
+  },
+  "variants": {
+    "message": "バリエーション"
+  },
+  "variantsTooltip": {
+    "message": "数値は商品のバリエーションの数を示します。同じ商品が別の色、サイズ、デザイン、または別の構成で提供されている可能性があります。"
+  },
+  "avgPrice": {
+    "message": "平均価格"
+  },
+  "avgPriceTooltip": {
+    "message": "平均価格は現在の Amazon ページに表示されている商品の平均価格を指します。"
+  },
+  "opScore": {
+    "message": "市場のスコア"
+  },
+  "opScoreTooltip": {
+    "message": "この評価は、市場の利益率、需要のレベル、および競争率に基づいています。 市場評価は検索ページでのみ確認できます。"
+  },
+  "opScoreDisabled": {
+    "message": "ニッチスコアは検索ページでのみ利用可能です"
+  },
+  "satScore": {
+    "message": "可視性スコア"
+  },
+  "satScoreDisabled": {
+    "message": "可視性スコアは検索ページでのみ利用可能です"
+  },
+  "avgMarginImpact": {
+    "message": "平均利益率"
+  },
+  "avgMarginImpactTooltip": {
+    "message": "現在の Amazon ページに表示されているすべての商品の平均総利益率を指します。"
+  },
+  "avgReviews": {
+    "message": "平均レビュー数"
+  },
+  "avgReviewsTooltip": {
+    "message": "現在の Amazon ページに表示されているすべての商品の平均レビュー数を指します。"
+  },
+  "rank": {
+    "message": "ランキング"
+  },
+  "rankTooltip": {
+    "message": "「BSR」（ベストセラーランキング）および「売れ筋ランキング」として知られていて、過去の販売データに基づいて Amazon が特定の商品に割り当てる評価です。"
+  },
+  "sales": {
+    "message": "販売数"
+  },
+  "bsr30": {
+    "message": "BSR 30"
+  },
+  "bsr30Tooltip": {
+    "message": "過去 30 日間での商品の平均ベストセラーランキングです。"
+  },
+  "price30": {
+    "message": "価格 30"
+  },
+  "price30Tooltip": {
+    "message": "過去 30 日間の平均価格です。"
+  },
+  "reviewsCount": {
+    "message": "レビュー数"
+  },
+  "productName": {
+    "message": "商品名"
+  },
+  "brand": {
+    "message": "ブランド"
+  },
+  "price": {
+    "message": "価格"
+  },
+  "minPrice": {
+    "message": "最低価格"
+  },
+  "minPriceTooltip": {
+    "message": "すべての出品者のうちで、商品の最低価格です。"
+  },
+  "net": {
+    "message": "純利益"
+  },
+  "netTooltip": {
+    "message": "FBA手数料などを差し引いた1個の商品の販売後の金額です。"
+  },
+  "fbaFees": {
+    "message": "FBA手数料"
+  },
+  "fbaFeesTooltip": {
+    "message": "FBA配送を選択した場合、1個の商品の取り扱いに対してAmazonが受け取る金額です。"
+  },
+  "lqs": {
+    "message": "LQS"
+  },
+  "lqsTooltip": {
+    "message": "LQS (Listing quality score)は、出品物の品質の良さを示します。 値をクリックして、この評価に寄与する要因を確認できます。"
+  },
+  "category": {
+    "message": "カテゴリー"
+  },
+  "categoryTooltip": {
+    "message": "カテゴリーは、商品情報を整理し、顧客が探しているものを見つけやすくするために使用されます。"
+  },
+  "sellers": {
+    "message": "セラー数"
+  },
+  "enablePS": {
+    "message": "AMZScoutニッチスコアポップアップを有効"
+  },
+  "extractOneProductOnly": {
+    "message": "商品ページで１つの商品のみ表示する"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "headers": {
+    "message": "ヘッダー"
+  },
+  "columns": {
+    "message": "列"
+  },
+  "data": {
+    "message": "データ"
+  },
+  "error": {
+    "message": "エラー"
+  },
+  "sellersTooltip": {
+    "message": "Amazonでこの商品を販売している出品者の数です。"
+  },
+  "estSales": {
+    "message": "推定販売数"
+  },
+  "estSalesTooltip": {
+    "message": "1か月に販売されたアイテムの推定数。 この値は製品ランクに基づいています"
+  },
+  "estRevenue": {
+    "message": "推定収益"
+  },
+  "estRevenueTooltip": {
+    "message": "推定月間収益"
+  },
+  "nameLength": {
+    "message": "名前の長さ"
+  },
+  "reviews": {
+    "message": "レビュー数"
+  },
+  "reviewsTooltip": {
+    "message": "特定の商品に対するカスタマーの満足度に関するレビューの数です。"
+  },
+  "rpr": {
+    "message": "RPR"
+  },
+  "rprTooltip": {
+    "message": "RPR (Revenue per review) は、販売者が 1 回のレビューでどれだけの利益を稼いでいるかを示します。 数字が大きいほど、初心者がこの市場に参入しやすいことを意味します。"
+  },
+  "availableFrom": {
+    "message": "出品日付"
+  },
+  "availableFromTooltip": {
+    "message": "この商品をアマゾンで出品し始めた日付です。"
+  },
+  "rating": {
+    "message": "評価"
+  },
+  "ratingTooltip": {
+    "message": "カスタマーレビューは商品に対して送信したレビューの総数に基づいた平均評価 (1 から 5 の範囲)です。"
+  },
+  "sellerIsFBA": {
+    "message": "FBA販売者"
+  },
+  "descriptionLength": {
+    "message": "説明の長さ"
+  },
+  "imagesCount": {
+    "message": "画像数"
+  },
+  "seller": {
+    "message": "配送"
+  },
+  "sellerTypeTooltip": {
+    "message": "Amazon には、フルフィルメント by Amazon (FBA)、フルフィルメント by マーチャント（自己配送） (FBM)、Amazon 自体 (AMZ) の 3 種類の出品者がいます。"
+  },
+  "url": {
+    "message": "URL"
+  },
+  "upgradeToLifetime": {
+    "message": "ライフタイムにアップグレード<br>+ ボナース!"
+  },
+  "asin": {
+    "message": "ASIN"
+  },
+  "monthlyPayment": {
+    "message": "毎月の支払額"
+  },
+  "onetimePayment": {
+    "message": "1回払い"
+  },
+  "oversize": {
+    "message": "大型"
+  },
+  "weight": {
+    "message": "重量"
+  },
+  "weightTooltip": {
+    "message": "商品の重量です。"
+  },
+  "oversizeTooltip": {
+    "message": "この表示は、商品が大型サイズであるかどうかを示します。"
+  },
+  "buyAtGoogle": {
+    "message": "Google Chrome Storeで購入"
+  },
+  "needPermissions": {
+    "message": "続行する前にサインインしてください"
+  },
+  "filters": {
+    "message": "フィルター"
+  },
+  "from": {
+    "message": " "
+  },
+  "to": {
+    "message": " "
+  },
+  "fbaOnly": {
+    "message": "FBAのみ"
+  },
+  "bulletsCount": {
+    "message": "Bullets Count"
+  },
+  "apply": {
+    "message": "適用する"
+  },
+  "clear": {
+    "message": "クリア"
+  },
+  "close": {
+    "message": "クローズ"
+  },
+  "nextPage": {
+    "message": "次のページ"
+  },
+  "filter": {
+    "message": "フィルター"
+  },
+  "trends": {
+    "message": "Googleトレンド"
+  },
+  "export": {
+    "message": "CSVにエクスポート"
+  },
+  "import": {
+    "message": "CSVからインポート"
+  },
+  "wrongPage": {
+    "message": "アマゾンのページにいないようです。サンプルページをロードしてAMZScoutPROを開きます。<br>ハッピースカウティング。<br><br>よろしく,<br>AMZScoutチーム"
+  },
+  "pageLoading": {
+    "message": "ページがロードされるまでお待ちください"
+  },
+  "cantGetProductsErr": {
+    "message": "このページには商品データはありません。<br><br>AMZScout PRO拡張機能は、製品を含むAmazonページのデータのみを表示できます。次のような商品を一覧表示するページで拡張機能を実行してみてください:<br>- 商品検索結果ページ<br>- 商品一覧ページ<br>- ベスト販売者, 本日のお買い得と他の製品グループページ<br>"
+  },
+  "instanceUnsupportedErr": {
+    "message": "お使いのバージョンのAMZScoutはサポートされなくなりました。 AMZScoutを最新のものに更新してください。"
+  },
+  "instanceBlockedErr": {
+    "message": "AMZScoutのインスタンスはブロックされています。 サポートにご連絡ください。"
+  },
+  "unhandledErr": {
+    "message": "ページが間違っているようです。 別のものを試してください"
+  },
+  "providerInitErr": {
+    "message": "決済プロバイダーを初期化できませんでした"
+  },
+  "paymentRejectedErr": {
+    "message": "支払いは拒否されます。 お支払いの詳細を確認して、もう一度お試しください"
+  },
+  "keepTracking": {
+    "message": "収益性の高い製品を選択することで、最初の月に約500ドルの利益を得る"
+  },
+  "buy": {
+    "message": "売れ筋製品を見つける"
+  },
+  "buyNow": {
+    "message": "今購入"
+  },
+  "getMoreSearches": {
+    "message": "Get More Searches"
+  },
+  "searchesResetDate": {
+    "message": "Reset date"
+  },
+  "oneTimeFee": {
+    "message": "1回払い"
+  },
+  "monthlyFee": {
+    "message": "毎月の支払額"
+  },
+  "freeLaunchesLeft": {
+    "message": ":freeLaunchesLeft 無料トライアルの残り"
+  },
+  "freeLaunchesLeftSingle": {
+    "message": ":freeLaunchesLeft 無料トライアルの残り"
+  },
+  "searchesLeft": {
+    "message": ":freeLaunchesLeft searches left"
+  },
+  "tryPro": {
+    "message": "PROまで"
+  },
+  "tryProPeriod": {
+    "message": "2週間無料"
+  },
+  "faq": {
+    "message": "よくある質問"
+  },
+  "refresh": {
+    "message": "更新"
+  },
+  "customizeData": {
+    "message": "データをカスタマイズする"
+  },
+  "personalizeData": {
+    "message": "ビュー"
+  },
+  "feedback": {
+    "message": "フィードバック"
+  },
+  "trialEnded": {
+    "message": "ライセンスの有効期限が切れました"
+  },
+  "trialEndedSub": {
+    "message": "今購入して、競争者の売上を追跡し続けよう"
+  },
+  "benefits": {
+    "message": "メリット"
+  },
+  "benefit1": {
+    "message": "ニッチを簡単に見つける–リスクを最小限に抑える。"
+  },
+  "benefit2": {
+    "message": "正確なリアルタイムメトリクス–利益を最大化しよう"
+  },
+  "benefit3": {
+    "message": "自信を持って検証および販売."
+  },
+  "licenceFull": {
+    "message": "フル"
+  },
+  "licenceTrial": {
+    "message": "トライアル"
+  },
+  "trialEndedAlert": {
+    "message": "今後の使用のためにAMZScout拡張機能を購入する必要があります"
+  },
+  "choosePaymentMethod": {
+    "message": "支払い方法を選んでください"
+  },
+  "paymentMethod_card": {
+    "message": "バンクカード"
+  },
+  "paymentMethod_gpay": {
+    "message": "グーグル"
+  },
+  "paymentMethod_paypal": {
+    "message": "ペイパル"
+  },
+  "chromeStore": {
+    "message": "Chromeストア"
+  },
+  "paymentFooterMessage": {
+    "message": "<strong>40,000</strong>を超えるAmazon販売者は<strong>AMZScout</strong>に信頼しています"
+  },
+  "noFees": {
+    "message": "追加料金なし"
+  },
+  "moneyBack": {
+    "message": "100％返金保証"
+  },
+  "paymentInfo": {
+    "message": "支払い情報"
+  },
+  "buyPrice": {
+    "message": "ライフタイムライセンス ::currency:price"
+  },
+  "buyPriceRecurring": {
+    "message": "の1か月サブスクリプション ::currency:price"
+  },
+  "sponsored": {
+    "message": "スポンサー付き"
+  },
+  "hideSponsored": {
+    "message": "スポンサー商品を隠す"
+  },
+  "signUp": {
+    "message": "でサインイン"
+  },
+  "signUpWithChrome": {
+    "message": "Chrome"
+  },
+  "signUpWithGoogle": {
+    "message": "グーグル"
+  },
+  "signUpWithFacebook": {
+    "message": "フェイスブック"
+  },
+  "signUpWithWeibo": {
+    "message": "Weibo"
+  },
+  "signUpWithEmail": {
+    "message": "Eメール"
+  },
+  "signUpTitle": {
+    "message": "収益性の高い製品を見つけるためにサインアップしてください"
+  },
+  "signUpMessage1": {
+    "message": "トライアル中にクレジットカードは必要ありません"
+  },
+  "signUpMessage2": {
+    "message": "サインアップすると、完全に機能するアプリが手に入ります"
+  },
+  "signUpMessage3": {
+    "message": "個人データは安全です"
+  },
+  "POUND": {
+    "message": "ポンド"
+  },
+  "KG": {
+    "message": "キロ"
+  },
+  "INCH": {
+    "message": "インチ"
+  },
+  "CM": {
+    "message": "シーエム"
+  },
+  "RUB": {
+    "message": "₽"
+  },
+  "USD": {
+    "message": "$$"
+  },
+  "EUR": {
+    "message": "€"
+  },
+  "GBP": {
+    "message": "£"
+  },
+  "INR": {
+    "message": "₹"
+  },
+  "ILS": {
+    "message": "₪"
+  },
+  "UAH": {
+    "message": "₴"
+  },
+  "VND": {
+    "message": "₫"
+  },
+  "marginImpact": {
+    "message": "純利益率"
+  },
+  "marginImpactTooltip": {
+    "message": "FBA手数料を支払った後の商品の利益率です。 この数値は割合で表示されます。"
+  },
+  "faq_title": {
+    "message": "よくある質問"
+  },
+  "faq_q_0": {
+    "message": "PRO機能拡張の料金は 1 回分づつ支払いますか、月ごとに支払いますか。"
+  },
+  "faq_a_0": {
+    "message": "<a class=\"fag-link\" href=\":url/pricing/\" target=\"_blank\">こちらで</a>、PRO拡張機能の月払い、年払い、または一括払いがお選びいただけます。月払い、年払いの場合は、毎月または毎年請求され、ライセンスが延長されます。一括払いを選択された場合、ご請求は 1 回限りです。"
+  },
+  "faq_q_1": {
+    "message": "PRO 機能拡張 を購入しましたが、どのように使用すればよいですか。"
+  },
+  "faq_a_1": {
+    "message": "<a class=\"fag-link\" href=\":tutorial\" target=\"_blank\">PRO 拡張機能のチュートリアル</a>をご確認ください。収益性の高い製品調査を迅速かつ生産的に始めていただけます。その後ご不明な点がございましたら、<a class=\"fag-link\" href=':email'>support@amzscout.net</a>までメールでお問い合わせください。"
+  },
+  "faq_q_2": {
+    "message": "PRO機能拡張 のデータは、日単位、月単位、または年単位の推定数ですか。"
+  },
+  "faq_a_2": {
+    "message": "売上、収益、およびその他のパラメーターは、推定月次値です。製品履歴図で毎日の推定数を確認できます。"
+  },
+  "faq_q_3": {
+    "message": "推定値はどのように計算されますか。"
+  },
+  "faq_a_3": {
+    "message": "これらの値は、当社が開発した数式を使用して計算され、Amazon に厳密に一致するように継続的に更新されます。カテゴリ内の製品のランキングに依存します。"
+  },
+  "faq_q_4": {
+    "message": "ネットマージン列は何を意味しますか。"
+  },
+  "faq_a_4": {
+    "message": "これは、Amazon の FBA 料金と販売手数料を差し引いた後に、商品を販売したときに表示される金額を示しています。"
+  },
+  "faq_q_5": {
+    "message": "LQS 列の意味は何ですか?"
+  },
+  "faq_a_5": {
+    "message": "これは リスティング品質スコア(Listing Quality Score )の略です。 Amzscout は、商品説明の多くの側面を分析して、リストの品質を評価します。ニッチでの平均 LQS が低いほど、その市場への参入が容易になります。なぜなら、優れたリスティングを作成して競合他社から際立つことができるからです。詳細を表示するには、カーソルを LQS 値の上に置きます。"
+  },
+  "faq_q_6": {
+    "message": "RPR 列の意味は何ですか?"
+  },
+  "faq_a_6": {
+    "message": "RPR は、Revenue Per Review の略です。この比率は販売者が一回のレビューあたりを通じてどれだけの収益を上げているかという意味です。 RPR が高いほど、新しい販売者がニッチに参入しやすいのを意味します。"
+  },
+  "faq_q_7": {
+    "message": "FBA 手数料は個数または数量で計算されますか?"
+  },
+  "faq_a_7": {
+    "message": "FBA手数料は個数単位で計算され、商品ページの配送サイズと配送重量に基づいています。この金額は、1か月の料金を示しています。"
+  },
+  "faq_q_8": {
+    "message": "PRO 拡張機能とAmzscout デスクトップ アプリの違いは何ですか?"
+  },
+  "faq_a_8": {
+    "message": "PRO 拡張機能はニッチな評価に重点を置いていますが、XXX社 デスクトップ アプリは正確な製品を見つけるのに役立ち、実際に製品を販売するのに役立つキーワードを提供します。<a class=\"fag-link\" href=\":url/jp/amazon-sellers-bundle/?r=faq_pro\" target=\"_blank\">アマゾンセラーバンドル</a> と、各ツールの使用方法に関する具体的に詳細を確認してください。"
+  },
+  "faq_q_9": {
+    "message": "Amzscoutについて別の質問や問題がある場合、どうすればサポートを受けることができますか?"
+  },
+  "faq_a_9": {
+    "message": "最速でサポートを受けるには、質問を<a class=\"fag-link\" href=':email'>support@amzscout.net</a> にメールで送信してください。"
+  },
+  "rankHistory": {
+    "message": "ランク履歴"
+  },
+  "salesHistory": {
+    "message": "売上履歴"
+  },
+  "priceHistory": {
+    "message": "価格履歴"
+  },
+  "productHistory": {
+    "message": "商品履歴"
+  },
+  "productCost": {
+    "message": "商品原価"
+  },
+  "taxesVAT": {
+    "message": "付加価値税を含む税"
+  },
+  "productPrice": {
+    "message": "商品価格"
+  },
+  "additionalProductCost": {
+    "message": "追加の単位あたり費用"
+  },
+  "additionalMonthlyCosts": {
+    "message": "追加の月額費用"
+  },
+  "productWeight": {
+    "message": "製品重量"
+  },
+  "packageWeight": {
+    "message": "パッケージ重量"
+  },
+  "productSize": {
+    "message": "製品サイズ"
+  },
+  "productSizeDimension": {
+    "message": "パッケージサイズ"
+  },
+  "monthlyStorage": {
+    "message": "在庫保管手数料"
+  },
+  "pickPack": {
+    "message": "出荷費用"
+  },
+  "weightHandling": {
+    "message": "重量処理"
+  },
+  "referralFee": {
+    "message": "販売手数料"
+  },
+  "estimatedSales": {
+    "message": "推定月間販売数"
+  },
+  "piece": {
+    "message": "個"
+  },
+  "totalFee": {
+    "message": "合計フルフィルメント手数料"
+  },
+  "totalFeeTooltip": {
+    "message": "FBA手数料は、アマゾンFBAを使用して販売されたかのように各商品に対して計算されます。 合計フルフィルメント手数料は他の費用は個々に異なるため、出荷費用、在庫保管手数料、Amazon手数料のみを合計したものです。"
+  },
+  "taxesVATTooltip": {
+    "message": "Amazonで提供され、EUおよび北アイルランド内の宛先に送信される製品の場合、製品の価格には付加価値税が含まれていますが、これは加盟国によって異なります。"
+  },
+  "monthlyStorageTooltip": {
+    "message": "10月から12月の間は、通常、保管料が他の時期よりも高くなることに注意してください。 FBA電卓は、現時点で料金を表示しています"
+  },
+  "estimatedRevenueTooltip": {
+    "message": "推定月間売上高とマージンへの影響に基づく推定月間収益"
+  },
+  "estimatedRevenue": {
+    "message": "推定月間収益"
+  },
+  "estimatedProfit": {
+    "message": "推定月間利益"
+  },
+  "estimatedProfitTooltip": {
+    "message": "推定月間売り上げとマージンへの影響に基づく推定月間利益"
+  },
+  "addToTracker": {
+    "message": "トラッカーに追加"
+  },
+  "profitCalculator": {
+    "message": "利益計算機"
+  },
+  "profit": {
+    "message": "単位当たりの利益"
+  },
+  "roi": {
+    "message": "投資収益率"
+  },
+  "roiTooltip": {
+    "message": "投資収益率は、純利益と初期投資の比率です。 ROIが高いということは、初期投資に加えて、大きなリターンが期待できることを意味します。"
+  },
+  "closingFee": {
+    "message": "クロージングフィー"
+  },
+  "favorites": {
+    "message": "お気に入り"
+  },
+  "favoritesTooltip":{
+    "message": "お気に入りに追加して、これらの製品を保存、比較、追跡します。 これは、最適なものを選択するのに役立ちます。"
+  },
+  "getNicheIdea":{
+    "message": "商品アイデア"
+  },
+  "getProductIdeasMenuFirstItem":{
+    "message": "ランダムな商品アイデア"
+  },
+  "getProductIdeasMenuSecondItem":{
+    "message": "トップ1000の売れ筋商品"
+  },
+  "getProductIdeasMenuThirdItem":{
+    "message": "新作・トレンドアイテム"
+  },
+  "getProductIdeasMenuFourthItem":{
+    "message": "商品リサーチを注文する"
+  },
+  "getProductIdeasMenuFifthItem":{
+    "message": "お客様の商品を分析する"
+  },
+  "learning": {
+    "message": "学習"
+  },
+  "inventory": {
+    "message": "在庫"
+  },
+  "inventoryTooltip": {
+    "message": "在庫数です。"
+  },
+  "deliveryFee": {
+    "message": "配送料"
+  },
+  "cessFee": {
+    "message": "サービスおよびセス手数料"
+  },
+  "referralMessage": {
+    "message": "このリンクを友達と共有すると、サインアップするすべての友達が1週間無料で利用できます。 お友達にも1週間無料でプレゼントされます。"
+  },
+  "paymentRuble": {
+    "message": "次のステップでロシアルーブルの金額が表示されますが、実際には：country：currencyで支払いが請求されます。 ：price :: currencyになります"
+  },
+  "orderProcessing": {
+    "message": "ご注文は5分で処理されます。 5分後にもう一度拡張機能を使用してみてください。"
+  },
+  "searchAli": {
+    "message": "アリババで検索"
+  },
+  "searchGoogle": {
+    "message": "グーグルで検索"
+  },
+  "copyASIN": {
+    "message": "ASINをコピーする"
+  },
+  "getKeywords": {
+    "message": "商品のキーワードを分析する"
+  },
+  "keyword": {
+    "message": "キーワード"
+  },
+  "keywords": {
+    "message": "キーワード"
+  },
+  "nicheKeywords": {
+    "message": "市場のキーワード"
+  },
+  "getNicheKeywords": {
+    "message": "ニッチキーワードを手入"
+  },
+  "keywordsPropositionFind": {
+    "message": "ライバルが知らない<span class = 'modal--keywords__decor'>数千のキーワード</ span>を見つけることができます。"
+  },
+  "keywordsPropositionReverse": {
+    "message": "より多くのキーワードを取得するには、リバースASINルックアップを開いてください"
+  },
+  "keywordsPropositionLearn": {
+    "message": "ASIN逆引きリサーチに移動する"
+  },
+  "occurrencesNumber": {
+    "message": "発生数"
+  },
+  "maxImport": {
+    "message": ":: count製品のインポートの最大数量"
+  },
+  "emptyImport": {
+    "message": "製品が見つかりません。ファイルを確認してください"
+  },
+  "continue": {
+    "message": "継続する"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "send": {
+    "message": "送信"
+  },
+  "modalTitle": {
+    "message": "メッセージ"
+  },
+  "yes": {
+    "message": "はい"
+  },
+  "bestSeller": {
+    "message": "BS"
+  },
+  "bestSellerTooltip": {
+    "message": "BS (Best seller) は、商品が Amazon でベストセラー商品であるかどうかを示します。"
+  },
+  "bestSellerCategory": {
+    "message": "のベストセラー "
+  },
+  "bestSellerLink": {
+    "message": "ベストセラーカテゴリURL"
+  },
+  "toggleFilterTitle": {
+    "message": "フィルターの有効化/無効化"
+  },
+  "aboutModalTitle": {
+    "message": "について"
+  },
+  "aboutAppVersion": {
+    "message": "アプリバージョン"
+  },
+  "aboutRegisteredTo": {
+    "message": "登録済み"
+  },
+  "aboutLicenceType": {
+    "message": "ライセンスの種類"
+  },
+  "aboutLicence": {
+    "message": "ライセンス"
+  },
+  "aboutExpires": {
+    "message": "有効期限"
+  },
+  "trialTitle": {
+    "message": "AMZScout無料トライアルオファー"
+  },
+  "trialMessage": {
+    "message": "今後7日間は、AMZScoutChrome拡張機能のすべての機能を制限なしで使用できます。<br><br>クレジットカードは必要ありません。 驚くことではありません。 結果だけです。<br><br>AMZScoutに関するヒントをいくつか紹介します:<br>\t- ほとんどすべてのテーブルヘッダーには、便利なツールチップがあります。 マウスをその上に置いたままにすると、表示されます。<br>\t- テーブルヘッダーをクリックするだけで、任意の列でデータを並べ替えることができます<br>\t- 青い色のテーブルのすべての値はクリック可能です。クリックしてみて、より多くの機会を確認してください<br><br>AMZScoutで良いスカウティングをしましょう！"
+  },
+  "trialMessageBtnStart": {
+    "message": "はじめましょう"
+  },
+  "trialMessageBtnMore": {
+    "message": "詳細"
+  },
+  "s1Title": {
+    "message": "AMZScoutはここにあります"
+  },
+  "s1Message": {
+    "message": "<b>3か月間の製品トラッカーとキーワードエクスプローラーを無料で入に入れよう!</b><br><br>連絡先をこちらに書いてください。すぐにご連絡致します"
+  },
+  "s1Btn1": {
+    "message": "対処"
+  },
+  "s1Btn2": {
+    "message": "結構です"
+  },
+  "pw1": {
+    "message": "AMZScoutであなたのメリットを手に入れよう"
+  },
+  "pw2": {
+    "message": "信頼できる売上データでリスクを最小化"
+  },
+  "pw3": {
+    "message": "1日2〜3時間は余裕を持って、他の重要なことに費やしてください"
+  },
+  "pw4": {
+    "message": "何百もの売れ残った製品で立ち往生しないでください"
+  },
+  "trackAddedMessage": {
+    "message": "このアイテムを<a href=\":url\" target='_blank'>商品トラッカー</a>に追加しました。売上、レビュー、在庫履歴はまもなく利用可能になります"
+  },
+  "licenceExpired": {
+    "message": "残念ながら、製品トラッカーのライセンスの有効期限が切れています。 <a href=\"https://amzscout.net/app/#/tracker\">で拡張できます</a>."
+  },
+  "productUntrackable": {
+    "message": "Amazonが十分なデータを提供していないため、この製品を追跡できません"
+  },
+  "tracksLimitExceed": {
+    "message": "計画トラックの制限を超えています"
+  },
+  "daily": {
+    "message": "ワンデー"
+  },
+  "monthly": {
+    "message": "毎月"
+  },
+  "annual": {
+    "message": "毎年"
+  },
+  "lifetime": {
+    "message": "ライフタイム"
+  },
+  "forever": {
+    "message": "無期限"
+  },
+  "save": {
+    "message": "サーブ"
+  },
+  "try": {
+    "message": "試す"
+  },
+  "tryDay": {
+    "message": "ワンデーを試す"
+  },
+  "paywallTitleTop": {
+    "message": "収益性の高い製品を見つけて、競争者を打ち負かす"
+  },
+  "paywallTitleBottom": {
+    "message": "もっと稼ぎ続けよう"
+  },
+  "paywallTagline": {
+    "message": "アマゾンで成功するビジネス"
+  },
+  "selectYourPlan": {
+    "message": "プランを選択"
+  },
+  "yourPlan": {
+    "message": "あなたのプラン"
+  },
+  "payment": {
+    "message": "支払金額"
+  },
+  "paymentChooseMethod": {
+    "message": "支払い方法を選んでください"
+  },
+  "selectPlan": {
+    "message": "プランを選択"
+  },
+  "offerPrice": {
+    "message": "::currency:価格"
+  },
+  "alreadyPaid": {
+    "message": "支払済みです"
+  },
+  "paymentDone": {
+    "message": "支払い完了"
+  },
+  "skip": {
+    "message": "スキップ"
+  },
+  "next": {
+    "message": "次"
+  },
+  "next5pages": {
+    "message": "次の5ページ"
+  },
+  "next20pages": {
+    "message": "次の20ページ"
+  },
+  "startTrial": {
+    "message": "トライアルを開始"
+  },
+  "s1h": {
+    "message": "<br>データ収集を伴うルーチンはもうありません"
+  },
+  "s1f": {
+    "message": "数回のクリックで<br>決定を下すためにすべてのデータを手に入れよう"
+  },
+  "s2h": {
+    "message": "可能性の高い製品を見つける"
+  },
+  "s2f": {
+    "message": "信頼できる売上データに基づいて<br>ニッチのポテンシャルを推定します"
+  },
+  "s3h": {
+    "message": "リスクを最小化"
+  },
+  "s3f": {
+    "message": "1か月以内に販売する製品の数を把握します"
+  },
+  "s4h": {
+    "message": "期待した結果を得る"
+  },
+  "s4f": {
+    "message": "正しい決定をすることによって"
+  },
+  "tips": {
+    "message": "ヒント"
+  },
+  "activeLimit": {
+    "message": "インストールの制限"
+  },
+  "activeExceed": {
+    "message": "アクティブなインストールの数を超えました"
+  },
+  "stopShowingTips": {
+    "message": "ヒントはいらない"
+  },
+  "strictFilterTooltip": {
+    "message": "使用した検索パラメータが特殊すぎるようです。 それらのいくつかを変更するか、フィルターをオフにしてみてください"
+  },
+  "t0": {
+    "message": "<a target='_blank' href='/stream'>Stream</a>または<a target='_blank' href='/gp/goldbox/'>Goldbox</a>ページでAMZScoutPROを使用してみてください 。アイデアはたくさんあります! AMZScout PROは、ほぼすべてのAmazonページで動作します。<br>また<a target='_blank' href='/gp/movers-and-shakers'>人気度ランキング</a>ページから、さらにほしい物ランキング<a target='_blank' href='/gp/most-wished-for'>からも製品を慎重に抽出します</a>."
+  },
+  "t1": {
+    "message": "製品スプレッドシートのすべての<b>青い数字</ b>と行は<b>クリック可能</ b>です。<br>それらをクリックして、各値の意味を確認してください。"
+  },
+  "t2": {
+    "message": "列のタイトルにはポップアウトのヒントがあります。タイトルの上にカーソルを数秒間置くと、タイトルが表示されます。<br>このインジケーターでスプレッドシートの<b>任意のタイトルをクリック</ b>して<b>データを並べ替え</ b>できます。<br>ちなみに、ページに表示されている番号で製品を並べ替えたい場合は、最初の列ヘッダーにある # サインをクリックしてください"
+  },
+  "t3": {
+    "message": "左側のスターをクリックしてお気に入りにポテンシャルの製品を追加し、下部にある[お気に入り]ボタンをクリックしていつでもそれらを確認します"
+  },
+  "t4": {
+    "message": "<b> [FBA料金]または[正味価格]列の値をクリック</ b>すると、<b>利益計算ツール</ b>が開き、製品コストを入力して利益とROIを計算できます。"
+  },
+  "t5": {
+    "message": "<b> [ランク]列の値をクリック</ b>すると、ランクの経時変化のグラフが表示されます。"
+  },
+  "t6": {
+    "message": "左側の<b>カーソルを矢印に置いて</ b>クリックすると、ドロップダウンメニューが開き、<b> Alibabaで類似製品を検索したり、製品のASINをコピーしたり、製品キーワードを取得したりできます。 。</ b>"
+  },
+  "t7": {
+    "message": "左側の矢印をクリックして必要なアクションを選択するだけで、<b>キーワードのアイデア</ b>を見つけて製品を効果的に宣伝できます。"
+  },
+  "t8": {
+    "message": "BSR列にオレンジ色の丸い記号が表示されている場合、その製品はランク1で最も売れています。<br>記号の上にカーソルを置くと、どのカテゴリで最も売れているのかを確認できます。"
+  },
+  "t9": {
+    "message": "<b>製品に強化されたブランドコンテンツまたはA +リスティングある</ b>場合、EBC列に緑色のチェックマークが表示されます。<br> EBCは、Amazonのブランドレジストリプロセスを通じてブランド所有者として承認された販売者に公開されています。"
+  },
+  "t10": {
+    "message": "<b>カーソルをLQS値の上に数秒間置く</ b>と、リスティングの品質に関する詳細が表示されます。"
+  },
+  "t11": {
+    "message": "<b>価格値をクリック</ b>すると、時間の経過に伴う価格変化のグラフが表示されます。"
+  },
+  "t12": {
+    "message": "<b>ニッチスコア</ b>番号をクリックすると、ニッチのポテンシルャの完全な内訳が表示されます。"
+  },
+  "os_title": {
+    "message": "総合評点"
+  },
+  "os_query_label": {
+    "message": "結果："
+  },
+  "os_open_on_run": {
+    "message": "実行するたびにこのウィンドウを開く"
+  },
+  "os_circle_1": {
+    "message": "劣等市場"
+  },
+  "os_circle_2": {
+    "message": "低質市場"
+  },
+  "os_circle_3": {
+    "message": "良好市場"
+  },
+  "os_circle_4": {
+    "message": "優良市場"
+  },
+  "os_niche_1": {
+    "message": "成功するのは難しい"
+  },
+  "os_niche_2": {
+    "message": "成功するのは難しいかもしれません"
+  },
+  "os_niche_3": {
+    "message": "成功する可能性"
+  },
+  "os_niche_4": {
+    "message": "成功する可能性が高い"
+  },
+  "os_competition": {
+    "message": "競争率"
+  },
+  "os_demand": {
+    "message": "需要"
+  },
+  "os_entering": {
+    "message": "利益"
+  },
+  "os_competition_1": {
+    "message": "非常に強い"
+  },
+  "os_competition_2": {
+    "message": "強い"
+  },
+  "os_competition_3": {
+    "message": "普通"
+  },
+  "os_competition_4": {
+    "message": "ライト"
+  },
+  "os_demand_1": {
+    "message": "低い"
+  },
+  "os_demand_2": {
+    "message": "ミディアム"
+  },
+  "os_demand_3": {
+    "message": "良い"
+  },
+  "os_demand_4": {
+    "message": "高い"
+  },
+  "os_entering_1": {
+    "message": "低い"
+  },
+  "os_entering_2": {
+    "message": "良い"
+  },
+  "os_entering_3": {
+    "message": "高い"
+  },
+  "os_entering_4": {
+    "message": "良い"
+  },
+  "os_productsCount_1": {
+    "message": "非常に飽和したニッチ"
+  },
+  "os_productsCount_1_desc": {
+    "message": "多くの販売者と競争する可能性あり。"
+  },
+  "os_productsCount_2": {
+    "message": "飽和したニッチ"
+  },
+  "os_productsCount_2_desc": {
+    "message": "多くの販売者と競争する可能性あり。"
+  },
+  "os_productsCount_3": {
+    "message": "市場が不飽和状態です"
+  },
+  "os_productsCount_3_desc": {
+    "message": "多くのセラーと競争する必要がありません。"
+  },
+  "os_productsCount_4": {
+    "message": "市場が不飽和状態では"
+  },
+  "os_productsCount_4_desc": {
+    "message": "数人のセラーだけと競争する必要があります。"
+  },
+  "os_reviewsCount_1": {
+    "message": "カスタマーレビューが多い"
+  },
+  "os_reviewsCount_1_desc": {
+    "message": "売れるためにはたくさんのカスタマーレビューが必要です。"
+  },
+  "os_reviewsCount_2": {
+    "message": "カスタマーレビューが多い"
+  },
+  "os_reviewsCount_2_desc": {
+    "message": "この市場で売れるためにはたくさんのカスタマーレビューが必要です。"
+  },
+  "os_reviewsCount_3": {
+    "message": "少数のレビュー"
+  },
+  "os_reviewsCount_3_desc": {
+    "message": "売上を得るには少数のレビューが必要です。"
+  },
+  "os_reviewsCount_4": {
+    "message": "非常に少数のレビュー"
+  },
+  "os_reviewsCount_4_desc": {
+    "message": "0-2レビューで売り上げを得ることができます。"
+  },
+  "os_lqs_1": {
+    "message": "優良リスティング"
+  },
+  "os_lqs_1_desc": {
+    "message": "製品の同等の品質のリスティグを作成することは困難です。"
+  },
+  "os_lqs_2": {
+    "message": "平均品質リスティグ"
+  },
+  "os_lqs_2_desc": {
+    "message": "製品の同等の品質のリスティンぐを作成するための努力が必要になります。"
+  },
+  "os_lqs_3": {
+    "message": "低品質のリスティング"
+  },
+  "os_lqs_3_desc": {
+    "message": "製品のより適切なリスティングを簡単に作成できます。"
+  },
+  "os_lqs_4": {
+    "message": "出品の品質は非常に低いです。"
+  },
+  "os_lqs_4_desc": {
+    "message": "ベストの出品を簡単に作成することができます。"
+  },
+  "os_amzSellers_1": {
+    "message": "非常に多数のAMZセラー"
+  },
+  "os_amzSellers_1_desc": {
+    "message": "アマゾンと売上のために競争する可能性あります。難易度高め"
+  },
+  "os_amzSellers_2": {
+    "message": "AMZ セラーが多い"
+  },
+  "os_amzSellers_2_desc": {
+    "message": "一部のAmazonの出品者と競合することになるので、これは難しいことです。"
+  },
+  "os_amzSellers_3": {
+    "message": "少数のAMZセラー"
+  },
+  "os_amzSellers_3_desc": {
+    "message": "売り上げでAmazonと競争することはあまりないでしょう。難易度低め"
+  },
+  "os_amzSellers_4": {
+    "message": "非常に少数のAMZセラー"
+  },
+  "os_amzSellers_4_desc": {
+    "message": "売り上げでAmazonと競争することはあまりないでしょう。難易度低め"
+  },
+  "os_topBrands_1": {
+    "message": "非常に高いトップブランドの競争"
+  },
+  "os_topBrands_1_desc": {
+    "message": "いくつかの有名なブランドと競争する可能性あり"
+  },
+  "os_topBrands_2": {
+    "message": "高いトップブランドの競争"
+  },
+  "os_topBrands_2_desc": {
+    "message": "有名なブランドと競争する可能性あり"
+  },
+  "os_topBrands_3": {
+    "message": "低いトップブランドの競争"
+  },
+  "os_topBrands_3_desc": {
+    "message": "多くの有名なブランドと競争する可能性なし"
+  },
+  "os_topBrands_4": {
+    "message": "非常に低いトップブランドとの競争率"
+  },
+  "os_topBrands_4_desc": {
+    "message": "有名なブランドと競合なし"
+  },
+  "os_topSellers_1": {
+    "message": "非常に独占的"
+  },
+  "os_topSellers_1_desc": {
+    "message": "非常に強力な販売者と競争する可能性あり"
+  },
+  "os_topSellers_2": {
+    "message": "独占的ニッチ"
+  },
+  "os_topSellers_2_desc": {
+    "message": "いくつかの強力な販売者と競争する可能性あり"
+  },
+  "os_topSellers_3": {
+    "message": "独占的市場ではありません"
+  },
+  "os_topSellers_3_desc": {
+    "message": "強いセラーとの競争なし"
+  },
+  "os_topSellers_4": {
+    "message": "自由競争"
+  },
+  "os_topSellers_4_desc": {
+    "message": "強いセラーと競争なし"
+  },
+  "os_avgRating_1": {
+    "message": "非常に高い平均評価"
+  },
+  "os_avgRating_1_desc": {
+    "message": "より良い品質の製品を作ることは難易度高め"
+  },
+  "os_avgRating_2": {
+    "message": "高い平均評価"
+  },
+  "os_avgRating_2_desc": {
+    "message": "より良い品質の製品を作れる可能性あり"
+  },
+  "os_avgRating_3": {
+    "message": "平均評価が低い"
+  },
+  "os_avgRating_3_desc": {
+    "message": "より良い品質の商品を簡単に作成することができます。"
+  },
+  "os_avgRating_4": {
+    "message": "非常に低い平均評価"
+  },
+  "os_avgRating_4_desc": {
+    "message": "より良い品質の商品を簡単に作成することができます。"
+  },
+  "os_avgSales_1": {
+    "message": "販売数が少ない"
+  },
+  "os_avgSales_1_desc": {
+    "message": "この市場ではライバルが多いので、最初のページで販売しても、売りにくいです。"
+  },
+  "os_avgSales_2": {
+    "message": "良い売上"
+  },
+  "os_avgSales_2_desc": {
+    "message": "最初のページにいる場合でも、販売するためには難易度高め"
+  },
+  "os_avgSales_3": {
+    "message": "高い売上高"
+  },
+  "os_avgSales_3_desc": {
+    "message": "特に最初のページにいる場合でも、たくさん売れるチャンスあり"
+  },
+  "os_avgSales_4": {
+    "message": "非常に多い販売数"
+  },
+  "os_avgSales_4_desc": {
+    "message": "特に最初のページにいる場合は、たくさん売ることができます。"
+  },
+  "os_dateFirstAvailable_1": {
+    "message": "古い市場"
+  },
+  "os_dateFirstAvailable_1_desc": {
+    "message": "その製品が何年もの需要があったことを確認することができます。しかし競争するであろういくつかの以前の販売者がいます。"
+  },
+  "os_dateFirstAvailable_2": {
+    "message": "旧販路"
+  },
+  "os_dateFirstAvailable_2_desc": {
+    "message": "この市場ではしばらくの間需要はあることが確かですが、この市場に参入したら、何人かの古参セラーと競争する必要があります。"
+  },
+  "os_dateFirstAvailable_3": {
+    "message": "かなり新しいニッチ"
+  },
+  "os_dateFirstAvailable_3_desc": {
+    "message": "需要は一時的なものかもしれませんが、成長する可能性があるどで、最初の売り手の1人になることができます。"
+  },
+  "os_dateFirstAvailable_4": {
+    "message": "新しいニッチ"
+  },
+  "os_dateFirstAvailable_4_desc": {
+    "message": "需要は一時的なものかもしれませんが、成長する可能性があるどで、最初の売り手の1人になることができます。"
+  },
+  "os_avgPrice_1": {
+    "message": "非常に望ましくない価格"
+  },
+  "os_avgPrice_1_desc": {
+    "message": "利益を出すために、価格は2千円～６千円の範囲の方が望ましいです。価格が安ければ利益を出すことも難しいし、高ければ大量に売ることも難しいです。"
+  },
+  "os_avgPrice_2": {
+    "message": "望ましくない価格"
+  },
+  "os_avgPrice_2_desc": {
+    "message": "価格は ２千円～６千円の範囲外です。 価格が安ければ利益を出すことも、高ければ大量に売れることも難しいです。"
+  },
+  "os_avgPrice_3": {
+    "message": "希望価格に近い"
+  },
+  "os_avgPrice_3_desc": {
+    "message": "ほとんどの価格は15〜40ドルの範囲内です。 価格が低くなければ利益を上げたり、価格が高くなければ大量に売ったりする方が簡単です。"
+  },
+  "os_avgPrice_4": {
+    "message": "希望価格"
+  },
+  "os_avgPrice_4_desc": {
+    "message": "ほとんどの価格は15〜40ドルの範囲内です。 価格が低くなければ利益を上げたり、価格が高くなければ大量に売ったりする方が簡単です。"
+  },
+  "os_avgMargin_1": {
+    "message": "非常に低い利益"
+  },
+  "os_avgMargin_1_desc": {
+    "message": "利益を得るためには、たくさん売る必要があります。 FBAの料金、送料、製造、マーケティングのコストに細心の注意を払ってください。 これは高すぎる可能性があります。 それらを数えるために利益計算機を使用してください。"
+  },
+  "os_avgMargin_2": {
+    "message": "低い利益"
+  },
+  "os_avgMargin_2_desc": {
+    "message": "利益を得るためには、たくさん売る必要があります。 FBAの料金、送料、製造、マーケティングのコストに細心の注意を払ってください。 これは少し高いかもしれません。 それらを数えるために利益計算機を使用してください。"
+  },
+  "os_avgMargin_3": {
+    "message": "高収益"
+  },
+  "os_avgMargin_3_desc": {
+    "message": "この市場で推定月間の利益を考える際に、弊社の利益計算機を利用してみてください。配送、生産、宣伝などの費用を追加することを忘れないようにご注意してください。\n"
+  },
+  "os_avgMargin_4": {
+    "message": "非常に高い利益"
+  },
+  "os_avgMargin_4_desc": {
+    "message": "簡単に利益を得るでしょう。 ただし、利益計算機のコストに送料、生産、マーケティングを追加することを忘れないでください。"
+  },
+  "ps_margin_1": {
+    "message": "の商品では利益を出にくいです。"
+  },
+  "ps_margin_2": {
+    "message": "この商品で十分な利益が得られます。"
+  },
+  "ps_margin_3": {
+    "message": "この商品では十分な利益が出ることができます。"
+  },
+  "ps_rpr_1": {
+    "message": "販売を取得するためにいくつかのレビューが必要になります"
+  },
+  "ps_rpr_2": {
+    "message": "販売を取得するためにいくつかのレビューが必要になります。"
+  },
+  "ps_rpr_3": {
+    "message": "レビュー数が少なくても、順調な売上を得ることができます。"
+  },
+  "ps_lqs_1": {
+    "message": "このリスティングは素晴らしいです。競争するために同じ品質のリスティングを持っている必要があるでしょう。"
+  },
+  "ps_lqs_2": {
+    "message": "この出品の品質は平均的ですので、より良い出品を作成することができます。"
+  },
+  "ps_lqs_3": {
+    "message": "この出品物は低品質です。競争するためにより良い出品を簡単に作成することができます。"
+  },
+  "ps_revenue_1": {
+    "message": "この製品はまだあまり稼いでいません。"
+  },
+  "ps_revenue_2": {
+    "message": "中程度の収益機会があります。"
+  },
+  "ps_revenue_3": {
+    "message": "大きな収益の機会を得ることができます。"
+  },
+
+  "ps_sellers_1": {
+    "message": "高い競争"
+  },
+  "ps_sellers_2": {
+    "message": "中程度の競争"
+  },
+  "ps_sellers_3": {
+    "message": "低い競争率"
+  },
+  "ps_sellers_tooltip": {
+    "message": "この商品の再販の可否を確認する方がおすすめです。この評価は、この商品が Amazon の少数の出品者によって販売されているという事実のみに基づいています"
+  },
+
+  "ps_sellers_desc_1": {
+    "message": "多くのセラーがこの商品を販売しています。 彼らがより良い価格を提供し、良いレビューを得ることができれば、この商品の販売数の大部分を得ることができます。"
+  },
+  "ps_sellers_desc_2": {
+    "message": "かなりの数の販売者がこの商品を販売しています。 彼らは良い価格で多くの販売数を得ることができました。 ただし、この販売者の数は、この商品を簡単に仕入れることを表すので、良いサインであります"
+  },
+  "ps_sellers_desc_3": {
+    "message": "この製品を販売している販売者はごくわずかです。 良い価格でたくさんの売り上げを得ることができます。 ただし、リスティングに掲載されている販売者が非常に少ない場合、この製品を調達するのは難しい可能性があることに注意してください。"
+  },
+
+  "ps_estsales_1": {
+    "message": "低い販売数"
+  },
+  "ps_estsales_2": {
+    "message": "中間の販売数"
+  },
+  "ps_estsales_3": {
+    "message": "多い販売数"
+  },
+  "ps_estsales_desc_1": {
+    "message": "定期的にカートボックスを獲得しても、この商品の販売数が多くないでしょう。"
+  },
+  "ps_estsales_desc_2": {
+    "message": "定期的にAmazonカートボックスを獲得したら、高い販売数を得ることができます。"
+  },
+  "ps_estsales_desc_3": {
+    "message": "定期的にAmazonカートボックスを獲得したら、多い販売数を得ることができます。"
+  },
+  "gotIt": {
+    "message": "了解"
+  },
+  "hideTips": {
+    "message": "閉じる"
+  },
+  "tooltip_1_beginner": {
+    "message": "こちらでニッチ内訳レポートをご覧ください。"
+  },
+  "tooltip_2_beginner": {
+    "message": "特定の基準に合う製品を見つけてください。 たとえば、販売したい価格、月間売上などを選択します。"
+  },
+  "tooltip_3_beginner": {
+    "message": "実際に必要な列を選択すると、不要なデータが削除されて邪魔にならないカスタマイズされたビューが表示されます。"
+  },
+  "tooltip_4_beginner": {
+    "message": "列で並べ替えるには、そのタイトルをクリックします。"
+  },
+  "tooltip_5_beginner": {
+    "message": "収益計算機はこちらです。 FBA手数料を含む、製品の収益と費用を確認できます。"
+  },
+  "tooltip_6_beginner": {
+    "message": "レビューを取得するのは難しいため、レビューあたりの収益率が高い商品を見つけることが重要です。 これは、新しい販売者として、わずかなレビューで大きな収益を上げることができることを意味します。"
+  },
+  "tooltip_7_beginner": {
+    "message": "これは、製品ページの良い点と悪い点の詳細な説明を含むリスト品質スコアです。 カーソルをその上に置くだけです。何が改善できるかがすぐにわかりますが、実行した内容をコピーすることができます。"
+  },
+  "tooltip_8_beginner": {
+    "message": "これはニッチの提案またはファインダーであり、最初から始めることができるニッチのアイデアを提供することを目的としています。 これは、Amazonで販売できるものについての視野を広げるのに役立ちます。"
+  },
+  "tooltip_9_beginner": {
+    "message": "製品スコアは、製品の売上、ランク、評価、レビュー、およびその他の指標に基づいて、製品が販売するのに最適なアイデアであるかどうかを示します。 スコアの低い製品を無視するだけで、詳細に調査する必要がないため、作業量を大幅に節約できます。"
+  },
+  "tooltip_10_beginner": {
+    "message": "これは、ニッチのタイトルで頻繁に使用されるキーワードを示しています。 タイトルに表示される頻度は括弧内に示されています。 最も人気のある単語を使用して、競争者が行った作業に基づいて独自のタイトルを作成します。"
+  },
+  "tooltip_1_expert": {
+    "message": "ニッチな内訳レポートはいつでもここにあります。"
+  },
+  "tooltip_2_expert": {
+    "message": "独自の製品基準に一致するようにフィルターを設定します。 これは、販売戦略に基づいて、特定の販売価格、特定の需要などで製品を選択するのに役立ちます。"
+  },
+  "tooltip_3_expert": {
+    "message": "表示する列を決定して、ニーズに合わせてメニューをカスタマイズします。"
+  },
+  "tooltip_4_expert": {
+    "message": "列で並べ替えるには、タイトルをクリックするだけです。 これは、最も収益の高い製品や最新の製品などを見つけるのに役立ちます。新しい製品を調べると、最初の在庫バッチの売上に対する期待を設定するのに役立ちます。"
+  },
+  "tooltip_5_expert": {
+    "message": "収益計算ツールは、アイテムを販売することで得られる利益を計算するのに役立ちます。 これは、FBAアイテムのAmazonフルフィルメント料金、推定保管料金、および広告費用を考慮に入れています。 真の利益見積もりを得るためにあなたの費用を入力してください。"
+  },
+  "tooltip_6_expert": {
+    "message": "レビューを取得するのは簡単ではないため、レビューあたりの収益率が高い製品を見つけた方がいいです。 RPR比率が高いということは、わずかなレビューでも収益を上げることができることを意味します。"
+  },
+  "tooltip_7_expert": {
+    "message": "リスティング品質スコアは、説明と画像の長さに基づいて、競争者のリスティングの弱点を確認するのに役立ちます。"
+  },
+  "tooltip_8_expert": {
+    "message": "ニッチファインダーは、より深く掘り下げる価値のある新製品セクションを刺激し、発見するのに役立つニッチなアイデアを提供します。"
+  },
+  "tooltip_9_expert": {
+    "message": "製品スコアは、販売、ランク、評価、レビュー、およびその他の指標に基づいて、製品が販売するのに最適なアイデアであるかどうかを示します。 価値のない製品を低いスコアで示すことにより、不要な調査を大幅に節約できます。"
+  },
+  "tooltip_10_expert": {
+    "message": "これは、ニッチのタイトルで頻繁に使用されるキーワードを示しています。 タイトルに表示される頻度は括弧内に示されています。 最も人気のある単語を使用して、競争者が行った作業に基づいて独自のタイトルを作成します。"
+  },
+  "pw1ExpiredTitle": {
+    "message": "申し訳ございませんが、トライアル期間が終了しました。"
+  },
+  "pw1ExpiredSubTitle": {
+    "message": "AMZScout PRO拡張機能を引き続き使用するには、以下の支払いプランを選択してください。"
+  },
+  "pw1BuyNowTitle": {
+    "message": "収益性の高い</span>製品を見つける<span class='red-text'> & </span>競争者をうち負かす<span class='red-text'>"
+  },
+  "pw1OfferPrice": {
+    "message": "::通貨：価格"
+  },
+  "pw1PlanMonthlyName": {
+    "message": "一月当たり"
+  },
+  "pw1PlanMonthlyHint": {
+    "message": "数分以内に最初のニッチを見つけましょう！"
+  },
+  "pw1PlanAnnualName": {
+    "message": "一年当たり"
+  },
+  "pw1PlanMostPopular": {
+    "message": "最も人気のある"
+  },
+  "pw1PlanAnnualHint": {
+    "message": "最も収益性の高い製品を確認してください！"
+  },
+  "pw1PlanAnnualPriceHint": {
+    "message": "（75％安く！）"
+  },
+  "pw1PlanLifetimeName": {
+    "message": "ライフタイム"
+  },
+  "pw1PlanLifetimeHint": {
+    "message": "最も正確な販売データに無制限にアクセスできます！"
+  },
+  "pw1PlanLifetimePriceHint": {
+    "message": " "
+  },
+  "pw1PlansTitle": {
+    "message": "プランを選択してください"
+  },
+  "pw1PaymentTitle": {
+    "message": "支払う方法"
+  },
+  "pw1MainTitle": {
+    "message": "価値"
+  },
+  "pw1PanelProfit1": {
+    "message": "<span class = 'red-text'> 1日以内に<spanclass = 'red-text'>収益性の高い商品</ span>を見つけてください。</ span>"
+  },
+  "pw1PanelProfit2": {
+    "message": "業界で<spanclass = 'red-text'>最も正確なデータ</ span>。"
+  },
+  "pw1PanelProfit3": {
+    "message": "<span class = 'red-text'> 66,000以上の販売者</ span>を誤った決定から保護しました。"
+  },
+  "pw1PanelProfit4": {
+    "message": "<span class = 'red-text'> 10日</ span>の返金保証。"
+  },
+  "pw1PayWithCard": {
+    "message": "クレジットカードで支払う"
+  },
+  "pw1PayWith": {
+    "message": "で支払う"
+  },
+  "pw1AlreadyPaid": {
+    "message": "支払済みです"
+  },
+  "pw1Or": {
+    "message": "また"
+  },
+  "pw1StripePowered": {
+    "message": "Stripeを搭載。"
+  },
+  "pw1Terms": {
+    "message": "規約"
+  },
+  "pw1Privacy": {
+    "message": "プライバシー"
+  },
+  "pw1And": {
+    "message": "と"
+  },
+  "pw1StripeMoneyBack": {
+    "message": "お支払いはStripeによって保護されています"
+  },
+  "pw1PayPalBuyerProtection": {
+    "message": "PayPal買い手保護プログラム"
+  },
+  "pw1TrustpilotReviews": {
+    "message": ":reviews レビュー"
+  },
+  "pw1TrustpilotTrustScore": {
+    "message": "トラストスコア :score"
+  },
+  "pw1FeedbackTitle": {
+    "message": "購入時に問題が発生していることに気づきました。 私たちが助けることができるように連絡先情報を以下に入力してください。"
+  },
+  "pw1FeedbackPlaceholder": {
+    "message": "電話番号またはメールアドレスをお知らせください。こちらからご連絡いたします。"
+  },
+  "tutorial": {
+    "message": "セラーキット"
+  },
+  "tutorialTitle": {
+    "message": "AMZScout PRO 拡張機能チュートリアル"
+  },
+  "tutorial2Title": {
+    "message": "AMZScoutをすばやくマスターする方法を学ぶ"
+  },
+  "tutorial2Label": {
+    "message": "チュートリアルをお試しください"
+  },
+  "tutorialStepMenuIntroTitle": {
+    "message": "1.製品概要ビデオを見る（7分）"
+  },
+  "tutorialStepMenuTitle1": {
+    "message": "2. <b>ニッチのアイデアを見つける</ b>方法を学ぶ"
+  },
+  "tutorialStepMenuTitle2": {
+    "message": "3. <b>ニッチのアイデアを確認する</ b>方法を学ぶ"
+  },
+  "tutorialStepMenuTitle3": {
+    "message": "4. <b>成長傾向を見つける</ b>方法を学ぶ"
+  },
+  "tutorialStepMenuTitle4": {
+    "message": "5. <b>競争者を追跡する</ b>方法を学ぶ"
+  },
+  "tutorial1Step1Description": {
+    "message": "<b>製品スコア</ b>と呼ばれる便利な指標があり、ポテンシャルな収益性によって製品を分類します。"
+  },
+  "tutorial1Step1Actions": {
+    "message": "<b>製品スコア</ b>列の上部をクリックして、すべての製品を高いものから低いものの順に並べます。"
+  },
+  "tutorial1Step2Description": {
+    "message": "興味深い製品を見つけたので、それが属するいくつかのニッチを取得しましょう。"
+  },
+  "tutorial1Step2Actions": {
+    "message": "1. <b>製品スコア列とブランド列の間</ b>をクリックすると、この新しい行が表示されます。</br> 2。 <b>キーワードを取得</ b>ボタンをクリックします"
+  },
+  "tutorial1Step3Description": {
+    "message": "これで、この製品がランク付けされているすべてのキーワードを確認できます。つまり、新しいニッチです。"
+  },
+  "tutorial1Step3Actions": {
+    "message": "<b>キーワード</ b>（新しいニッチ）をクリックすると、そのキーワードを検索すると新しいタブが開きます"
+  },
+  "tutorial1Step4Description": {
+    "message": "最後に、現在調査しているニッチの詳細な分析を提供する強力な<b>ニッチスコア</ b>ツールが開きます"
+  },
+  "tutorial1Step4Actions": {
+    "message": "現在のニッチの分析を読むには、<b>ニッチスコア</ b>インジケーターをクリックしてください"
+  },
+  "tutorial2Step1Description": {
+    "message": "AMZScoutには、<b>ニッチスコア</ b>と呼ばれる強力なツールがあり、成功の可能性を推定し、現在の製品ニッチに入るときに詳細な分析を提供します"
+  },
+  "tutorial2Step1Actions": {
+    "message": "現在のニッチの分析を読むには、<b>ニッチスコア</ b>インジケーターをクリックしてください"
+  },
+  "tutorial3Step1Description": {
+    "message": "ニッチ全体の販売履歴を見てみましょう。 そのためには、<b>平均販売傾向</ b>インジケーターを使用します。 トレンドが上昇していることを確認してください"
+  },
+  "tutorial3Step1Actions": {
+    "message": "<b>平均販売動向</ b>インジケーターをクリックします"
+  },
+  "tutorial3Step2Description": {
+    "message": "次に、各製品の個々の販売履歴を調べます。 繰り返しますが、トレンドが上昇していることを確認してください "
+  },
+  "tutorial3Step2Actions": {
+    "message": "興味のある製品の<b>推定売上高</ b>列をクリックします"
+  },
+  "tutorial3Step3Description": {
+    "message": "最後に、このニッチの<b> グーグルトレンド</ b>を見てみましょう。 グーグルでのニッチ関連のクエリの人気を示します"
+  },
+  "tutorial3Step3Actions": {
+    "message": "下部にある<b>トレンド</ b>ボタンをクリックします"
+  },
+  "tutorial4Step1Description": {
+    "message": "最強の競争者を見つけることから始めましょう"
+  },
+  "tutorial4Step1Actions": {
+    "message": "下部にある[フィルター]ボタンをクリックします"
+  },
+  "tutorial4Step2Description": {
+    "message": "調査したい競争者の種類を絞り込みます"
+  },
+  "tutorial4Step2Actions": {
+    "message": "これを試してください：</br> 1。 <b> FBA </ b>と<b>スポンサーを非表示</ b> </br> 2を確認します。 LQS（リスティング品質スコア）を80から100の間に設定します"
+  },
+  "tutorial4Step3Description": {
+    "message": "今は結果がはるかに少なくなり、それらのほとんどは追跡する価値があります。</br>後で見つけやすくするために、<b>お気に入り</ b>にリスティングを追加しましょう。"
+  },
+  "tutorial4Step3Actions": {
+    "message": "その商品の行の最初の列にある黄色いスターをクリックして、<b>お気に入り</ b>に追加します。"
+  },
+  "tutorial4Step4Description": {
+    "message": "最強のライバルを<b>お気に入り</ b>に保存したので、定期的に（通常は週に1回）彼らに戻って、彼らの売り上げがどのようになっているのかを確認します。"
+  },
+  "tutorialEndBtn": {
+    "message": "チュートリアルを終了する"
+  },
+  "tutorialGoToStep": {
+    "message": "ステップに進みます"
+  },
+  "tutorialMenuTitle": {
+    "message": "クイックチュートリアル"
+  },
+  "tutorialMenuPlayAgain": {
+    "message": "このチュートリアルはいつでももう一度プレイできます"
+  },
+  "freshNicheIdea": {
+    "message": "新鮮なニッチのアイデアがあります！"
+  },
+  "show": {
+    "message": "見せる"
+  },
+  "featureIsNotAvailable": {
+    "message": "この機能は有料版で利用できます"
+  },
+  "allRowsAreNotAvailable": {
+    "message": "すべての行は有料版で利用可能になります。"
+  },
+  "product_score_high": {
+    "message": "簡単にコピーして販売できる優れた製品。"
+  },
+  "product_score_middle": {
+    "message": "ある程度の経験を積んで販売できる商品です。"
+  },
+  "product_score_low": {
+    "message": "売り上げを伸ばすために一生懸命働いた商品。"
+  },
+  "youCanSkipThisIn": {
+    "message": "お待ちください"
+  },
+  "noCreditCard": {
+    "message": "クレジットカードは不要です"
+  },
+  "productScore": {
+    "message": "商品スコア"
+  },
+  "productScoreL": {
+    "message": "自社ブランドのための商品スコア"
+  },
+  "productScoreR": {
+    "message": "転売のための商品スコア"
+  },
+  "productScoreTooltip": {
+    "message": "自社ブランドのための商品スコアは、自社ブランドへの需要の高さ、競争の少なさ、利益率の高さを示します。 商品スコア の点数は1から10までで、10が自社ブランドの最高の点数です。"
+  },
+  "productScoreResellingTooltip": {
+    "message": "転売のための商品スコアは、製品の需要の高さ、競争の少なさ、せどり、卸売、あるいは無在庫販売モデルで再販するための十分な利益率があるかどうかを示します。 商品評価の点数は1から10までで、10が転売のために最高の点数です。"
+  },
+  "showMore": {
+    "message": "もっと見せる"
+  },
+  "countryCode": {
+    "message": "国コード"
+  },
+  "phone": {
+    "message": "電話番号"
+  },
+  "fio": {
+    "message": "お名前"
+  },
+  "contactMe": {
+    "message": "私に連絡してください"
+  },
+  "preorder": {
+    "message": "今すぐ50％割引！"
+  },
+  "signOut": {
+    "message": "サインアウト"
+  },
+  "saturationScore": {
+    "message": "可視性スコア"
+  },
+  "saturationScoreTooltip": {
+    "message": "可視性スコアではこの市場を最近見つけたAmzscoutのユーザー数の割合が表示されます。"
+  },
+  "saturationPreorder": {
+    "message": "予約注文"
+  },
+  "load20warn": {
+    "message": "<p class='load20-warn-content'>20ページのロードには時間がかかり、<br>パソコンのロードも多くなります。 このまま続けますか？</p>"
+  },
+  "remember": {
+    "message": "二度と質問しないでください"
+  },
+  "saturationScoreTTLow": {
+    "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:%のAmzscoutのユーザー</ span>がこのニッチを見つけました。 市場をリサーチしているときに、ごく少数のセラーがこのニッチに気づきました。 このニッチでビジネスを成功させ、大きな利益を取れる可能性は非常に高いです。</p>"
+  },
+  "saturationScoreMiddle": {
+    "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:%のAmzscoutのユーザー</ span>がこのニッチを見つけました。相当数ののセラーがこのニッチを検討していますが、それほど多くはありません。そのため、 大きな可能性があり、まだ飽和していないため、今すぐこのニッチに参入することは理にかなっています。</p>"
+  },
+  "saturationScoreHigh": {
+    "message": "<p class='ss__tooltip'><span class='ss__visits color-:color'>:%のAmzscoutのユーザー</ span>がこのニッチを見つけました。 このニッチは、市場をリサーチしている多くのセラーによってよく見られます。 このニッチに対する彼らの関心の高さは、それが大きな売り上げと競争の激しい大きなニッチであること、あるいはセラーにこのニッチでの市場調査を促すいくつかの注目すべきトレンドがあることのいずれかを示している可能性があります。</p>"
+  },
+  "friendyNASales": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Amazonはこの製品の親カテゴリにランクを提供していないため、わかりにくいです。 サブカテゴリのランクが小さい場合、製品は正常に販売されます。</span></div>"
+  },
+  "friendyNAInventory": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>この製品の在庫レベルが何であるかを知るのは難しいです。</span></div>"
+  },
+  "friendyNAReselling": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>この製品を再販できるかどうかはわかりません。</span></div>"
+  },
+  "friendyNAScoreR": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>ラベルはこの製品自体のみを販売しているため、この製品はドロップシッピングやオンラインアービトラージには適していません。</span></div>"
+  },
+  "friendyNAScoreL": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Amazonは、この製品の親カテゴリのランクを提供していません。したがって、この製品が自社ブランド、ドロップシッピング、またはオンラインアービトラージを介してどのように機能するかを評価するための十分なデータがありません。</span></div>"
+  },
+  "onboardingNichesTitle": {
+    "message": "最も興味深いニッチは何ですか？"
+  },
+  "onboardingNichesHint": {
+    "message": "以下のニッチの1つを選択して、それがどれほど有益かを確認してください"
+  },
+  "onboardingNichesDescription": {
+    "message": "<b>ニッチスコアとは何ですか？</ b>これは、収益性、需要、および競争を示すニッチの全体的なスコアです。"
+  },
+  "onboardingNichesHintsHeading": {
+    "message": "値の意味:"
+  },
+  "onboardingNichesRateHigh": {
+    "message": "成功する可能性が非常に高い"
+  },
+  "onboardingNichesRateMedium": {
+    "message": "成功する可能性が高い"
+  },
+  "onboardingNichesRateLlow": {
+    "message": "成功するのは難しいかもしれない"
+  },
+  "onboardingNichesRateLow": {
+    "message": "成功するのは難しい"
+  },
+  "nicheScore": {
+    "message": "市場のスコア"
+  },
+  "mvpAdStarTooltip": {
+    "message": "プレミアム不飽和ニッチアクセス。<br> <b>オファーは：daysLeft日で終了します</b>"
+  },
+  "upgradetrialHeader12": {
+    "message": "ご注意してください。残りは<span class = 'modal__title_dec'> 12回の無料検索実行のみです。 </span>"
+  },
+  "upgradetrialWarn12": {
+    "message": "苦労して稼いだお金をなくさないでください！"
+  },
+  "upgradetrialDesc12": {
+    "message": "すべてのAmazon販売者が成功するために必要なPRO拡張機能と完全なツールキットを手に入れよう。 さらに、ボーナスとして、すぐに使える保証付きの上位1％のニッチをメールで入手できます。"
+  },
+  "upgradetrialBtn12": {
+    "message": "PRO拡張機能、ツールキット、上位1％のニッチを入手"
+  },
+  "upgradetrialHeader8": {
+    "message": "トライアル期間が終了しました。<spanclass = 'modal__title_dec'>残り8回の検索があります</ span>"
+  },
+  "upgradetrialWarn8": {
+    "message": "特別なオファー！"
+  },
+  "upgradetrialDesc8": {
+    "message": "無制限のPRO拡張機能、完全な販売者のツールキット、独占的な上位1％のニッチを取得し、販売者コースで製品を調達して販売する方法を学びましょう。すべてがクレイジーな75％割引で！"
+  },
+  "upgradetrialBtn8": {
+    "message": "75％割引ですべてのツールを入手してください！"
+  },
+  "upgradetrialHeader3": {
+    "message": "PROExtensionトライアルの<spanclass = 'modal__title_dec'>残り3回</ span>しかありません！"
+  },
+  "upgradetrialDesc3": {
+    "message": "Amazonセラーズバンドルを使用して月額$ 10,000のビジネスを構築します。これは、PRO拡張機能、上位1％の製品に対するAmazonの独占的な洞察を含む、Amazonの完全なツールキットであり、収益性の高い製品の検索、調達、販売に役立ちます。"
+  },
+  "upgradetrialBtn3": {
+    "message": "$ 10,000 /月の収入を築きましょう！"
+  },
+  "upgradetrialHeader14": {
+    "message": "おい、<span class = 'modal__title_dec'>トライアルは終了しました</span>"
+  },
+  "upgradetrialWarn14": {
+    "message": "実際に売れている製品はもう見つかりましたか？"
+  },
+  "upgradetrialDesc14": {
+    "message": "急いで選択すると、投資が失われる可能性があります。 利益率が高く、競争が少なく、販売量が多い製品を特定するには、数十のニッチ市場を調査する必要があります。"
+  },
+  "upgradetrialDescSecond14": {
+    "message": "PRO拡張機能、上位1％のニッチへの独占的洞察、およびAmazonで製品を販売するための完全なツールキットを無制限に使用して、月額10,000ドルの収入を構築しましょう。"
+  },
+  "upgradetrialBtn14": {
+    "message": "PRO拡張機能、トップニッチ、完全なツールキットを入手してください！"
+  },
+  "step": {
+    "message": "ステップ"
+  },
+  "alreadyPaidQuestion": {
+    "message": "PRO拡張機能の料金を支払うのに、ライセンスの問題が発生する場合は、次の手順に従って修正してください:"
+  },
+  "alreadyPaidStep1": {
+    "message": "ChromeブラウザからAMZScoutPRO拡張機能を削除します"
+  },
+  "alreadyPaidStep2": {
+    "message": "<a target='_blank' class='btn--dotted already-pay__btn_dotted' href='https://chrome.google.com/webstore/detail/amzscout-pro/njopapoodmifmcogpingplfphojnfeea?hl=en-US'>ChromeにAMZScoutPRO拡張機能を再インストール</a>します"
+  },
+  "alreadyPaidStep2Edge": {
+    "message": "<a target='_blank' class='btn--dotted already-pay__btn_dotted' href='https://microsoftedge.microsoft.com/addons/detail/idcpecldgbbabloifgjogemdifohldkd'>AMZScoutPRO拡張機能をEdgeに再インストール</a>します"
+  },
+  "alreadyPaidStep3": {
+    "message": "ChromeでAMZScoutPRO拡張機能にログオンして、お楽しみください。"
+  },
+  "alreadyPaidContact": {
+    "message": "ご不明な点がございましたら、、<a class='btn--dottedalready-pay__btn_dotted'href='mailto:support@amzscout.net'> support@amzscout.net </a>までご連絡ください。"
+  },
+  "igotIt": {
+    "message": "了解"
+  },
+  "gotoFindP": {
+    "message": "製品の検索に移動します"
+  },
+  "checkProfit": {
+    "message": "収益性があるかどうかを確認する"
+  },
+  "of": {
+    "message": "の"
+  },
+  "enterP": {
+    "message": "製品を入力してください"
+  },
+  "onboardNotShure": {
+    "message": "何を探すべきかわからない？ 次のいずれかの提案を試してください。"
+  },
+  "onboardResearch": {
+    "message": "PRO拡張機能で最初のニッチを調べましょう！"
+  },
+  "onboardCheck": {
+    "message":"ニッチが収益性があるかどうかを確認するには、その名前を入力して、[収益性があるかどうかを確認]をクリックします。"
+  },
+  "onboardWillsee": {
+    "message": "現在Amazonで販売されている類似の名前のアイテムと、それらを評価するために必要な<span class = 'step__desc_decor'>月間売上、レビュー、ベストセラーランク、</ span>およびその他の主要な統計が表示されます。"
+  },
+  "onboardWelcome": {
+    "message": "AMZScout PRO 拡張機能へようこそ"
+  },
+  "onboardHelps": {
+    "message": "PRO 拡張機能は、Amazonで販売するので最適な製品を見つけるのに役立ちます"
+  },
+  "onboardSelect": {
+    "message": "Amazonでの経験レベルを選択してください"
+  },
+  "onboardAdjust": {
+    "message": "私たちはあなたの経験に基づいてポップアップのヒントと特定のパラメータの量を調整します。 この選択は、後で[設定]で変更できます。"
+  },
+  "onboardBeginner": {
+    "message": "初心者"
+  },
+  "onboardYouNew": {
+    "message": "Amazonの調査に不慣れな場合は、優れた製品をすばやく選択するのに役立つ重要なパラメータが表示されます。 学習に最適です。"
+  },
+  "onboardExpert": {
+    "message": "専門家"
+  },
+  "onboardAsExpert": {
+    "message": "専門家として、完全なデータを確認し、調査を微調整することができます。"
+  },
+  "negativeNumberTooltipNetMargin": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>FBAプログラムで販売する場合のマイナスの純利益であることに注意してください。 この製品の販売者は、FBMとして、または異なる料金を支払うベンダーセントラルを通じて販売しているため、実際にはプラスの利益を上げています。</span></div>"
+  },
+  "negativeNumberTooltipNet": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>FBAプログラムで販売する場合のマイナスの純利益であることに注意してください。 この製品の販売者は、FBMとして、または異なる料金を支払うベンダーセントラルを通じて販売しているため、実際にはプラスの利益を上げています。</span></div>"
+  },
+  "negativeNumberTooltipEst": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>FBAプログラムで販売する場合のマイナス推定月間利益であることにご注意ください。この製品の販売者は、FBMとして、または異なる料金を支払うベンダーセントラルを通じて販売しているため、実際にはプラスの利益を上げています。</span></div>"
+  },
+  "negativeNumberTooltipProfit": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>FBAプログラムで販売する場合のマイナス単位当たり利益であることにご注意ください。この製品の販売者は、FBMとして、または異なる料金を支払うベンダーセントラルを通じて販売しているため、実際にはプラスの利益を上げています。</span></div>"
+  },
+  "hot": {
+    "message": "ホット"
+  },
+  "grewM": {
+    "message": "この製品は、過去1か月の売上が20％以上増加したため、ホットと呼ばれます。 製品の年間販売履歴を表示して、自分で確認してください。"
+  },
+  "grew3M": {
+    "message": "この製品は、過去3か月の売上が20％以上増加したため、ホットと呼ばれます。 製品の年間販売履歴を表示して、自分で確認してください。"
+  },
+
+  "videoT": {
+    "message": "チュートリアル"
+  },
+  "howToStart": {
+    "message": "開始方法"
+  },
+  "howToUserProExt": {
+    "message": "Pro 拡張機能の使用方法"
+  },
+  "howTips": {
+    "message": "専門家からのヒント"
+  },
+  "howHacks": {
+    "message": "アマゾンハック"
+  },
+  "findProfit": {
+    "message": "収益性の高い製品とニッチを見つける"
+  },
+  "choosingBest": {
+    "message": "AMZScoutスコアで最高のニッチを選択する"
+  },
+  "bundlingItems": {
+    "message": "アイテムをバンドルして収益を2倍にする"
+  },
+  "howToUsePro": {
+    "message": "AMZScout PRO 拡張機能の使用方法"
+  },
+  "stepByC": {
+    "message": "ステップバイステップコース"
+  },
+  "learnHowToSell": {
+    "message": "Amazonでの販売方法を習い学ぼう"
+  },
+  "masterclasses": {
+    "message": "マスタークラス"
+  },
+  "bestPractices": {
+    "message": "専門家によるベストプラクティス"
+  },
+  "blog": {
+    "message": "ブログ "
+  },
+  "guides": {
+    "message": "インサイト、ケース、ガイド"
+  },
+  "hide": {
+    "message": "隠す"
+  },
+  "howToSell": {
+    "message": "Amazonでの販売方法"
+  },
+  "nicheSuppliers": {
+    "message":"ニッチのサプライヤー"
+  },
+  "nicheSuppliersFavorite": {
+    "message": "お気に入りサプライヤー"
+  },
+  "nicheFilterBtn": {
+    "message": "検索"
+  },
+  "supplierCountry": {
+    "message": "サプライヤーの国"
+  },
+  "currencyType": {
+    "message": "通貨タイプ"
+  },
+  "priceRange": {
+    "message": "価格帯"
+  },
+  "orderQuantity": {
+    "message": "最小注文数量"
+  },
+  "suppliersTrade": {
+    "message": "貿易保証のみをサポート"
+  },
+  "suppliersVerified": {
+    "message": "確認済みのみ"
+  },
+  "reset": {
+    "message": "リセット"
+  },
+  "suppliersON": {
+    "message": "suppliers on"
+  },
+  "startingAt": {
+    "message": "ユニットあたり$$：lowestPriceから"
+  },
+  "products": {
+    "message": "上の製品"
+  },
+  "suppliedBy": {
+    "message": "によって供給:"
+  },
+  "businessType": {
+    "message": "ビジネスタイプ:"
+  },
+  "verifiedSince": {
+    "message": "から確認済み"
+  },
+  "reviewScore": {
+    "message": "レビュースコア:"
+  },
+  "revenueNiche": {
+    "message": "6か月あたりの収益：<span class = 'niche-item__revenue-value'>：halfYearOrderNumber </ span>トランザクションの<spanclass = 'niche-item__score-value'>：halfYearSalesAmout </ span>"
+  },
+  "nicheAddFavorite": {
+    "message": "お気に入りに追加"
+  },
+  "nicheRemoveFavorite": {
+    "message": "お気に入りから削除"
+  },
+  "contactSupplier":{
+    "message": "サプライヤーに連絡する"
+  },
+  "mainProducts": {
+    "message": "主な製品"
+  },
+
+  "nofavorites": {
+    "message": "お気に入りに製品をまだ追加していません"
+  },
+
+  "nosuppliers": {
+    "message": "これらのフィルター設定に対応するこのキーワードのサプライヤーはAlibabaにありません。 </br>他のフィルター設定または別のキーワードを入力してください。"
+  },
+
+  "moq": {
+    "message": "MOQ"
+  },
+
+  "youViewed": {
+    "message": "ご覧になりました"
+  },
+
+  "mainProductsT": {
+    "message": "<div class='niche__tooltip-wrap'><div class='niche__tooltip-title'><strong>このサプライヤーの主な製品は次のとおりです。</strong></div><div class='niche__tooltip-content'>:mainProducts</div></div>"
+  },
+
+  "searchSuppTitle": {
+    "message": "アリババでのサプライヤー"
+  },
+  "searchSupplierDisabled": {
+    "message": "拡張機能 Proを搭載したAlibabaでサプライヤーを見つけるには、Amazonで特定の製品ページを開くか、Amazonの検索バーにキーワードを入力して検索結果ページを開いてください。"
+  },
+
+  "searchSuppliers": {
+    "message": "サプライヤーを検索"
+  },
+  "chartMaxPeriod": {
+    "message": "利用可能な最大期間"
+  },
+  "chartYear": {
+    "message": "一年"
+  },
+  "chartYears": {
+    "message": "年々"
+  },
+  "chartMonth": {
+    "message": "ヶ月間で"
+  },
+  "chartMonths": {
+    "message": "ヶ月間で"
+  },
+  "chartselectPeriod": {
+    "message": "期間の選択："
+  },
+
+  "findLocalSuppliers": {
+    "message": "地元のサプライヤーを見つける"
+  },
+  "orother": {
+    "message": "またはその他:"
+  },
+  "selectOtherCountry": {
+    "message": "他の国を選択"
+  },
+  "units": {
+    "message": "単位"
+  },
+  "personalizeView": {
+    "message": "[パーソナライズ・ビュー] ボタンをクリックすると、データのビューをカスタマイズできます。"
+  },
+  "ch": {
+    "message": "中国"
+  },
+  "us": {
+    "message": "米国"
+  },
+  "usa": {
+    "message": "USA"
+  },
+  "ind": {
+    "message": "インド"
+  },
+  "pk": {
+    "message": "パキスタン"
+  },
+  "vi": {
+    "message": "ベトナム"
+  },
+  "uk": {
+    "message": "イギリス"
+  },
+  "th": {
+    "message": "タイ"
+  },
+  "sa": {
+    "message": "南アフリカ"
+  },
+  "ph": {
+    "message": "フィリピン"
+  },
+  "jp": {
+    "message": "日本"
+  },
+  "my": {
+    "message": "マレーシア"
+  },
+  "tr": {
+    "message": "トルコ"
+  },
+  "sg": {
+    "message": "シンガポール"
+  },
+  "de": {
+    "message": "ドイツ"
+  },
+  "sc": {
+    "message": "韓国"
+  },
+  "ca": {
+    "message": "カナダ"
+  },
+  "fr": {
+    "message": "フランス"
+  },
+  "it": {
+    "message": "イタリア"
+  },
+  "consideredHOT": {
+    "message": "商品は、過去 1 か月間で売り上げが 20% 以上増加した場合、:textHot."
+  },
+  "view": {
+    "message": "商品履歴"
+  },
+  "theyearly": {
+    "message": "を確認して、自分で確かめることができます。"
+  },
+  "nextP": {
+    "message": "次ページ"
+  },
+  "previousP": {
+    "message": "前のページ"
+  },
+  "page": {
+    "message": "ページ"
+  },
+  "page1": {
+    "message": " "
+  },
+  "GR": {
+    "message": "グラム"
+  },
+  "textNodatafull": {
+    "message": "*この日付に製品の価格、販売、ランク履歴はありません"
+  },
+  "textNodatapriceNo": {
+    "message": "*この日付に製品の価格履歴はありません"
+  },
+  "textNodatarankNo": {
+    "message": "この日付に製品のランク履歴はありません"
+  },
+  "textNodatasalesNo": {
+    "message": "*この日付に製品の販売履歴はありません"
+  },
+  "textNodatapriceandsalesNo": {
+    "message": "*この日付に製品の価格、販売、履歴はありません"
+  },
+  "textNodatarankandsalesNo": {
+    "message": "*この日付に製品の販売、ランク履歴はありません"
+  },
+  "textNodatapriceandrankNo": {
+    "message": "*この日付に製品の価格、ランク履歴はありません"
+  },
+  "textSameDatasales": {
+    "message": "後のいくつかの期間の販売量の変化を推定するのに十分なデータがありません "
+  },
+  "textCurrentSalesValue": {
+    "message": "現在の推定1日あたりの販売量は＃アイテムです "
+  },
+  "variationsTips": {
+    "message": "<div class='friendly-na'><div class='i-wrapper'><i class='i-alert-circle'></i></div><span>Amazonの製品には、複数のバリエーション（色、サイズなど）があります。 <br> <br>この製品には、Amazonで：variationsのバリエーションがあります。 PRO 拡張機能で提供される売上見積もり列は、すべてのバリエーションを足し合わせたものです。 製品の特定の色やサイズの人気と需要を確認したい場合は、対応するキーワードを<a class='hot-tooltip__link'target='_blank'href=\":url\">キーワード検索を通じて入力できます</a>.</span></div>"
+  },
+  "dataLoading": {
+    "message": "データがロードされています"
+  },
+  "searchPlaceHolder": {
+    "message": "検索する製品を入力します。例： プラスチックストローラグ"
+  },
+  "searchButtonCaption": {
+    "message": "製品を検索"
+  },
+  "weightUnitTooltip": {
+    "message": "FBA手数料を計算される際に、商品パッケージの重量がアマゾンによってカウントされなくなりました。商品の重量のみがカウントされます。"
+  },
+  "searchListButton": {
+    "message": "最高のサプライヤーを見つける"
+  },
+  "alibabaSearch": {
+    "message": "Alibaba.comで見つける"
+  },
+  "ebaySearch": {
+    "message": "Ebayで見つける"
+  },
+  "walmartSearch": {
+    "message": "Walmartで見つける"
+  },
+  "aliSearch": {
+    "message": "Aliexpressで見つける"
+  },
+  "banggoodSearch": {
+    "message": "Banggoodで見つける"
+  },
+  "madeInChinaSearch": {
+    "message": "Made-in-chinaで見つける"
+  },
+  "dhgateSearch": {
+    "message": "Dhgateで見つける"
+  },
+  "bestbuySearch": {
+    "message": "Bestbuyで見つける"
+  },
+  "upc": {
+    "message": "UPC"
+  },
+  "tooltipUPC": {
+    "message": "UPC (Universal Product Code の略) は、特定の商品を認識するために、各商品のパッケージに印刷されています。"
+  },
+  "copyUPC": {
+    "message": "UPCをコピーする"
+  },
+  "UPCCopied": {
+    "message": "UPCはコピーされた"
+  },
+  "notNichePageTooltip": {
+    "message": "<p class='na__tooltip'>ニッチとは、Amazon での検索リクエストの結果として得られる特定の種類の商品 (クリスマス ライトなど) のグループです。 <br/><br/>このページにはさまざまな種類の商品が含まれており、特定の商品リクエストに対する Amazon 結果のページとは異なります。 <br/><br/>ニッチの 3 つの例は、LED ライト、ビーチ テント、リング ドアベルです。</p>"
+  },
+  "weightUnits": {
+    "message": "測定システム"
+  },
+  "britainUnitSystem": {
+    "message": "inch-lb"
+  },
+  "metricUnitSystem": {
+    "message": "cm-kg"
+  },
+  "bestAmazonSellers": {
+    "message": "Amazon Best Sellers"
+  },
+  "naTooltip":{
+    "message": "<div class='friendly-na new-na japan'><div class='i-wrapper'><i class='i-alert-circle'></i></div><div>アマゾンの商品のこのパラメータに関連するデータはありません</div></div>"
+  },
+  "sellerTipsOption1btn": {
+    "message": "開始"
+  },
+  "sellerTipsOption2btn": {
+    "message": "開始"
+  },
+  "sellerTipsTitle": {
+    "message": "AMZScoutセラーヒントへようこそ"
+  },
+  "sellerTipsDescription": {
+    "message": "<div>AMZScout PRO 拡張機能は、製品調査のための伝説的なツールであり、正確な販売データのためにセラーに愛されています。</div><div>PRO拡張機能の使用に関する知識を共有できることをうれしく思います。</div><div>アマゾンビジネスを開始して成長させる際に、どの提案が目標により適しているかを指定してください。</div>"
+  },
+  "sellerTipsOption1": {
+    "message": "<h5 class='seller-option-title first-option'>アマゾンでブランドを立ち上げる</h5><p class='seller-option-cost'>（3,000ドルからの予算の場合)</p>"
+  },
+  "sellerTipsOption2": {
+    "message": "<h5 class='seller-option-title'>ブランドを立ち上げずにすぐに販売を開始</h5><p class='seller-option-cost'>（500ドルからの予算の場合）</p>"
+  },
+  "stepHeader_br1": {
+    "message": "アマゾンでブランドを立ち上げる"
+  },
+  "stepHeader_br2": {
+    "message": "ブランドを立ち上げずにすぐに販売を開始"
+  },
+  "sellerTipsStepDescription_br1_st1": {
+    "message": "<div class='sale-tips step-11'><p>PRO拡張機能を使用して関心のある製品の分析を取得したら、リストされている製品のデータを表示します。</p><ul><li><strong>推定売上高：</strong>月額300以上は、製品のパフォーマンスが高いことを示しています</li><li><strong>セラーランク：</strong>ランクが低いほど、特定のカテゴリでの商品の売り上げが高くなります</li><li><strong>純利益率：</strong>粗利益をもたらすため、良好な利益率は50％を超えると推定されます。</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br1_st2": {
+    "message": "<div class='sale-tips step-12'><p>最初に利用可能なデータとLQSパラメーターを確認してください。</p><ul><li>商品がアマゾンで最初に利用可能になった日付は、その商品が新品かどうかを示します。</li><li><strong>リスティング品質スコア(LQS): </strong>リスティングがどの程度適切に整理されているかを示す０から１００までのスコアを提供します。スコアが低いほど、リスティングの検索結果での発見可能性は低くなります。</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br1_st3": {
+    "message": "<div class='sale-tips step-13'><p>ニッチスコアを調べて、選択したニッチに可能性があるかどうかを確認します。 ニッチのスコアは、利益、競争、需要に基づいています（1 - ニッチで成功することは非常に困難です。10 - ニッチで成功する可能性は非常に高いです）。</p><div class='step1-3-img-japan'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st4": {
+    "message": "<div class='sale-tips step-14'><p>今月中にこのニッチを見つけたAMZScoutユーザーの数を理解するのに役立つ可視性スコアを見つけてください（1 - 不飽和、10人未満、10 - 非常に飽和）。 競争が少なくなることを意味するので、少ないほど良いです。</p></div>"
+  },
+  "sellerTipsStepDescription_br1_st5": {
+    "message": "<div class='sale-tips step15 japan'><p>自社ブランドの商品スコアを確認します。製品のマージン、競争のレベル、需要が自社ブランドのビジネスに適しているかどうかを示します。 製品スコアが7を超える製品をメモします。</p><div class='step1-5-img-japan'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st6": {
+    "message": "<div class='sale-tips step16'><p>確認する商品の左側にある矢印をクリックして、商品履歴をクリックします。 期間中に商品がどのように販売されたかがわかるので、需要があるかどうかがわかります。</p><div class='step1-6-japan-img'></div><p>さまざまなニッチを分析し、最適な数のニッチを選択してください。これは貴方のショートリストです。</p></div>"
+  },
+  "sellerTipsStepDescription_br1_st7": {
+    "message": "<div class='sale-tips step17'><p>「ニッチキーワード」のキーワードを使用して、お客様を商品リストに誘導します。 キーワードの横の括弧内の数字は、アマゾンページの商品タイトルで単語が言及された回数を示します。 さらに、[製品履歴]ボタンの横にある機能バーの[キーワードを検索]ボタンを使用して、特定の製品のすべてのキーワードを見つけることができます。</p><div class='step1-7-img-japan'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st8": {
+    "message": "<div class='sale-tips step18'><p>「アリババのローカルおよびグローバルサプライヤ」で信頼できるサプライヤを見つけてください。アメリカ合衆国から中国まで、世界中のすべての場所から適切なサプライヤーを選択できます。取引通貨、購入価格、または最小注文数量で要件がある場合は、基準でベンダーをフィルター処理することもできます。サプライヤーが検証され、貿易保証のみをサポートすることが重要である場合、この機能は要件にも適合します。</p><div class='step1-8-img-japan'></div></div>"
+  },
+  "sellerTipsStepDescription_br1_st9": {
+    "message": "<div class='sale-tips step19'><h3> 驚くばかり！</h3><div>AMZScout PRO拡張機能を使用して、収益性が高く競争の少ない商品、アマゾンで宣伝するのに最適なキーワード、信頼できるサプライヤを簡単に見つけることができるようになりました。</div><p>ビジネスで頑張ってください！</p></div>"
+  },
+  "sellerTipsStepDescription_br2_st1": {
+    "message": "<div class='sale-tips step21'><p>PRO 拡張機能を使用してご興味のある商品の分析を取得したら、リストされている商品のデータを表示します。</p><ul><li><strong>セラー数：</strong>  リストに複数のセラーがいる場合、この商品は再販可能である可能性があります。セラーが20人を超える場合は、激しい競争が発生する可能性があります。</li><ul><li><strong>純利益：</strong> 費用を支払った後も利益を上げることができるように、50％を超えるマージンを設定した方がいいです。</li><li><strong>商品がAmazonで最初に利用可能になった日付：</strong> この指標は、商品が一貫して信頼できるかどうか、商品が新品かどうかを理解するのに役立ちます。</li></ul></div>"
+  },
+  "sellerTipsStepDescription_br2_st2": {
+    "message": "<div class='sale-tips step22'><p>確認する商品の左側にある矢印をクリックして、商品履歴をクリックしてください。期間中に商品がどのように売れたかどうか、需要があるかどうか、商品が季節限定であるかどうかがわかります（たとえば、夏にクリスマスの飾りを購入したい人はあまりいません）。商品を販売することが有益であるかどうかを確認するために、価格が年間を通じてどのように変動するかをチェックしてください。</p><div class='step2-2-japan-img'></div>"
+  },
+  "sellerTipsStepDescription_br2_st3": {
+    "message": "<div class='sale-tips step23 japan'><p>オンラインアービトラージ、ドロップシッピング、卸売りで再販の商品スコアを確認します。マージン、競争のレベル、特定の製品の需要が再販ビジネスモデルに適しているかどうかを示します。 商品スコアが7を超える商品をメモします。</p><div class='step2-3-img-japan'></div></div>"
+  },
+  "sellerTipsStepDescription_br2_st4": {
+    "message": "<div class='sale-tips step24'><p>可視性スコアに注意してください。これは、今月中にこのニッチを見つけたAMZScoutユーザーの数を理解するのに役立ちます（1 - 不飽和、10人未満、10 - 非常に飽和）。 競争が少なくなることを意味するので、少なければ少ないほどよいです。</p></div>"
+  },
+  "sellerTipsStepDescription_br2_st5": {
+    "message": "<div class='sale-tips step19'><h3>できました</h3><div>できました！ 販売動向をチェックすることは、Amazonでのオンライン裁定取引、ドロップシッピング、卸売りで購入するや再販するのに有益なアイテムを見つけるための重要なステップです。 AMZScoutのPRO拡張機能は、それを実現するのに最適なツールです。</div><p>今後ともよろしくお願いいたします。</p></div>"
+  },
+  "newTips": {
+    "message": "AMZScoutセラーヒント"
+  },
+  "newTipsDescription": {
+    "message": "PRO拡張機能の使用方法"
+  },
+  "seller_tips_step1": {
+    "message": "ステップ１"
+  },
+  "seller_tips_step2": {
+    "message": "ステップ２"
+  },
+  "seller_tips_step3": {
+    "message": "ステップ３"
+  },
+  "seller_tips_step4": {
+    "message": "ステップ４"
+  },
+  "seller_tips_step5": {
+    "message": "ステップ５"
+  },
+  "seller_tips_step6": {
+    "message": "ステップ６"
+  },
+  "seller_tips_step7": {
+    "message": "ステップ７"
+  },
+  "seller_tips_step8": {
+    "message": "ステップ８"
+  },
+  "back": {
+    "message": "戻る"
+  },
+  "menu_group_product_research": {
+    "message": "製品分析"
+  },
+  "menu_product_database_title": {
+    "message": "商品データベース"
+  },
+  "menu_product_database_description": {
+    "message": "何百万ものアマゾン商品の中を検索して、潜在的なベストセラ ーを数分で見つけ出せます。 最も収益性の高いニッチで販売するために一定の商品を見つけることができます。"
+  },
+  "menu_product_tracker_title": {
+    "message": "商品トラッカー"
+  },
+  "menu_product_tracker_description": {
+    "message": "製品の毎日の売上と評価の変化を追跡します。 競合製品に注目し、販売を決める前に売った方が良いのかどうか確認してください。"
+  },
+  "menu_dropshipping_title": {
+    "message": "Amzscoutのドロップシッピング、オンライン裁定取引、お卸ためのツール"
+  },
+  "menu_dropshipping_description": {
+    "message": "在庫コストを低く抑えながら、リスクの高い商品を避け、Amazon での成功率を最大化できます。"
+  },
+  "menu_group_keyword_research": {
+    "message": "キーワード分析"
+  },
+  "menu_asin_search_title": {
+    "message": "ASIN逆引きリサーチ"
+  },
+  "menu_asin_search_description": {
+    "message": "成功しているライバルのページは,ASIN ごとにキーワードを採用して、アマゾンでの出品を改善することができます。"
+  },
+  "menu_keyword_search_title": {
+    "message": "アマゾンキーワード検索"
+  },
+  "menu_keyword_search_description": {
+    "message": "商品のために何千ものキーワードを見つけ出せます。出品を充実させ、より多くの購入者を呼び込むことができます。"
+  },
+  "menu_keyword_tracker_title": {
+    "message": "キーワードトラッカー"
+  },
+  "menu_keyword_tracker_description": {
+    "message": "商品のキーワードが、アマゾンによってインデックス化されているこ とを確認し、 オーガニック検索のランクを追跡して、 同じ PPC広告 予算でより多くの購入者を呼び込むことができます。"
+  },
+  "menu_group_trends": {
+    "message": "トレンドと商品アイディア"
+  },
+  "menu_monthly_reports_title": {
+    "message": "月次レポートとトレンド"
+  },
+  "menu_monthly_reports_description": {
+    "message": "アマゾンの新たなトレンドによって生み出された新しい機会を含む 月次レポートに加えて、 迅速なローンチと売り上げの拡大に関する ヒント"
+  },
+  "menu_weekly_hot_title": {
+    "message": "毎週の人気商品"
+  },
+  "menu_weekly_hot_description": {
+    "message": "数十のニッチで爆発的にヒットになった製品を見つけ出せます。 毎週、最新の人気アイテムが追加されます。"
+  },
+  "menu_personal_products_ideas_title": {
+    "message": "個人的な製品のアイデア"
+  },
+  "menu_personal_products_ideas_description": {
+    "message": "関連するアマゾンサブカテゴリーから、 急速に成長している新しい 製品のアイデアを見つけることができます。"
+  },
+  "menu_free_bonuses_title": {
+    "message": "無料のボーナス"
+  },
+  "menu_free_bonuses_description": {
+    "message": "トップの誇大広告製品と１ドル未満のトップ製品で、ホット販売のアイテムの最新の状態になることができます。"
+  },
+  "menu_group_learning": {
+    "message": "学習"
+  },
+  "menu_expert_guide_title": {
+    "message": "専門家によるガイド"
+  },
+  "menu_expert_guide_description": {
+    "message": "AMZScout スコアでベストのニッチを選択することができます。"
+  },
+  "menu_hacks_title": {
+    "message": "アマゾンハック"
+  },
+  "menu_hacks_description": {
+    "message": "商品をまとめて収益を倍増することができます。"
+  },
+  "menu_seller_tips_title": {
+    "message": "AMZSCOUT セラーへのヒント"
+  },
+  "menu_seller_tips_description": {
+    "message": "PRO拡張機能のご使用方法"
+  },
+  "menu_course_title": {
+    "message": "3,000＋ドルの予算コースでブランドを立ち上げましょう"
+  },
+  "menu_course_description": {
+    "message": "商品の選択調達、アマゾンで販売方法を学び、ブランド収益を1,000万円以上に拡大する方法を教えます。"
+  },
+  "menu_course_OA_title": {
+    "message": "ドロップシッピング、裁定取引、卸売コースで販売を開始する"
+  },
+  "menu_course_OA_description": {
+    "message": "アマゾンビジネスを独力で実行し、多額の投資をせずに最初の売り上げを迅速に達成する方法を学びます"
+  },
+  "menu_masterclass_title": {
+    "message": "マスタークラス"
+  },
+  "menu_masterclass_description": {
+    "message": "専門家による最高で実用的なセミナー"
+  },
+  "menu_university_title": {
+    "message": "大学"
+  },
+  "menu_university_description": {
+    "message": "最高のeコマース専門家で$$1,000,000を稼いでいるセラーから独占的なオファーを受け取られます。"
+  },
+  "menu_blog_title": {
+    "message": "ブログ"
+  },
+  "menu_blog_description": {
+    "message": "インサイト、ケース、ガイド"
+  },
+  "menu_group_competitor_analysis": {
+    "message": "競合他社データ分析"
+  },
+  "menu_quick_view_title": {
+    "message": "クイックビュー"
+  },
+  "menu_quick_view_description": {
+    "message": "利益率が高い商品はどちらか?　アマゾンで検索しながら、 商品を並べて比較します。"
+  },
+  "menu_stock_stats_title": {
+    "message": "在庫統計"
+  },
+  "menu_stock_stats_description": {
+    "message": "特定期間のライバルのデータを確認すれば、 一歩先を行くために事前に販売戦略を計画することができます。"
+  },
+  "menu_onboard_title": {
+    "message": "AMZScoutメーニューへようこそ"
+  },
+  "menu_onboard_first_step": {
+    "message": "最も収益性の高い製品アイデアを見つけて、その販売履歴を追跡する"
+  },
+  "menu_onboard_second_step": {
+    "message": "新しいキーワードを見つけてリストを改善し、新しい顧客を引き付ける"
+  },
+  "menu_onboard_third_step": {
+    "message": "アマゾンの新しいトレンドや売上が爆発的に伸びている商品に関するレポートを入手する"
+  },
+  "menu_onboard_fourth_step": {
+    "message": "AMZScoutの段階的なコースと、6＆7桁のアマゾンセラーによるマスタークラスのおかげで、アマゾンで販売する方法を学ぶ"
+  },
+  "menu_onboard_fifth_step": {
+    "message": "ChromeとEdge向けのAMZScout拡張機能を使用して、最も収益性の高い製品と競合他社のデータを発見する"
+  },
+  "date": {
+    "message": "Date"
+  },
+  "product_variations": {
+    "message": "商品バリエーション"
+  },
+  "color": {
+    "message": "色"
+  },
+  "size": {
+    "message": "サイズ"
+  },
+  "ratings": {
+    "message": "評価"
+  },
+  "ratings_history": {
+    "message": "評価履歴"
+  },
+  "variation_rating_hint": {
+    "message": "評価の数は、商品バリエーションの人気を反映しています。 商品の評価が高ければ高いほど、売り上げが上がります。"
+  },
+  "got_it_btn": {
+    "message": "了解"
+  },
+  "column_graph_tooltip_1": {
+    "message": "この列の数字をクリックすると、履歴グラフが表示されます。"
+  },
+  "column_graph_tooltip_2": {
+    "message": "この列の青い数字をクリックすると、製品の各バリエーションのレビュー履歴グラフが表示されます。"
+  },
+  "lqs_modal_title": {
+    "message": "出品品質スコア"
+  },
+  "lqs_modal_subtitle": {
+    "message": "LQS は、AMZScoutシステムによって最も評価が高い<span class=\"bold\">100</span>から、最も評価の低い<span class=\"bold\">1</span> までの値で表されます。"
+  },
+  "lqs_modal_description_1": {
+    "message": "AMZScout は、LQS を計算するために、最も重要な商品リストパラメータの分析をします。 スコアが高いほど、検索結果でのページの発見可能性が高くなります。 これにより、リスティングは潜在的な顧客にとって、より魅力的なものになります。"
+  },
+  "lqs_modal_description_2": {
+    "message": "下の表では、分析されたリストの実際の指標値が左側の列に掲載されています。 リストの LQS を上げるための推奨値は、右側の列にあります。"
+  },
+  "lqs_modal_recommended": {
+    "message": "推奨"
+  },
+  "lqs_modal_on_page": {
+    "message": "ページ上"
+  },
+  "lqs_modal_name_length": {
+    "message": "名前の長さ"
+  },
+  "lqs_modal_name_length_description": {
+    "message": "商品名の文字数。"
+  },
+  "lqs_modal_brand_length": {
+    "message": "ブランドの長さ"
+  },
+  "lqs_modal_brand_length_description": {
+    "message": "ブランド名の文字数。"
+  },
+  "lqs_modal_bullets_count": {
+    "message": "箇条書きの数"
+  },
+  "lqs_modal_bullets_count_description": {
+    "message": "商品説明のリストのぺージの箇条書きの数。 各箇条書きは製品の機能の 1 つに対応しており、1 つのリストに大体0～5 個の箇条書きが含まれていることがあります。"
+  },
+  "lqs_modal_rating": {
+    "message": "評価"
+  },
+  "lqs_modal_rating_description": {
+    "message": "Amazon での商品の評価。 通常、値は3～5の間で、製品の品質に対する顧客の評価を示します。"
+  },
+  "lqs_modal_reviews": {
+    "message": "レビュー"
+  },
+  "lqs_modal_reviews_description": {
+    "message": "アマゾンでの商品のレビュー数。"
+  },
+  "lqs_modal_description_length": {
+    "message": "説明の長さ"
+  },
+  "lqs_modal_description_length_description": {
+    "message": "出品ページの商品説明の文字数。"
+  },
+  "lqs_modal_description_a_plus": {
+    "message": "A+コンテンツ"
+  },
+  "lqs_modal_description_rule_tooltip": {
+    "message": "商品出品には A+ コンテンツがあることで、商品の価値をよりきちんとに伝えて、顧客が十分な情報に基づいて購入を決定できるようにする機会が増えます。"
+  },
+  "lqs_modal_description_a_plus_rule": {
+    "message": ">= 1,000 または A+ コンテンツ"
+  },
+  "lqs_modal_seller_type": {
+    "message": "出品者のタイプ "
+  },
+  "lqs_modal_seller_type_description": {
+    "message": "アマゾンの出品者は、フルフィルメント by Amazon (FBA)、フルフィルメントby Merchant（FBM）、アマゾンの、3種類の出品者がいます。 フルフィルメント by Amazon (FBA)は、配送、保管、削除、および返品のすべての側面がアマゾンによって処理されます。フルフィルメントby Merchant（FBM）は、出品者自身がこれらすべてのプロセスを管理します。 他に、アマゾン自体が出品しているケースがあります。"
+  },
+  "lqs_modal_seller_fba": {
+    "message": "フルフィルメント by Amazon (FBA)"
+  },
+  "lqs_modal_images_count": {
+    "message": "画像数"
+  },
+  "lqs_modal_images_count_description": {
+    "message": "一覧ページに含まれる画像の数。 数量は、1～7枚の範囲で指定できます。"
+  },
+  "lqs_modal_tooltip": {
+    "message": "最終的なLQSスコアに結びつくパラメーターの値は、レビュー、評価などの変数によって異なる場合があります。 これらのパラメーターの値が大きいほど、LQSスコアは最も高い数値である100に近づきます。"
+  },
+  "a_plus_content_short": {
+    "message": "A+"
+  },
+  "a_plus_content": {
+    "message": "A+コンテンツ"
+  },
+  "a_plus_tooltip": {
+    "message": "Amazonで登録されたブランドには、画像、ビデオなどを含むより高品質の出品があります。 これを「A+コンテンツ」と呼びます。 これにより、品質が向上した商品の出品があるかどうかを確認できます (以前は「EBС」と呼ばれていました)"
+  },
+  "login_error_text1": {
+    "message": "現在、接続に問題が発生しました。 "
+  },
+  "login_error_text2": {
+    "message": "2 ～ 3 分後にもう一度お試しください。"
+  },
+  "login_error_text3": {
+    "message": "あるいは、 "
+  },
+  "login_error_text4": {
+    "message": "<a href=\"mailto:support@amzscout.net\">support@amzscout.net</a> までご連絡お願い致します"
+  }
+}
